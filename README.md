@@ -30,12 +30,20 @@ advected-contact convergence orders 1 and 2 through N=800, published Sod
 star state to 5e-5, 11 tests + CI, and a 41-frame computed shock-tube
 animation ([results](https://github.com/khalil-official/shockline-euler/blob/main/docs/verification.md)).
 
+**Also verified:** [Droplet Journey](https://github.com/khalil-official/droplet-journey)
+— 0-D droplet evaporation and heating with the Spalding d²-law, correct
+sphere-area lumped heating, and documented threshold stops: frozen-state
+d² validation to 1.7e-16, agreement with an independent tight-tolerance
+reference below 1e-7, 10 tests + CI, and a 41-frame dense-sampled
+animation ([results](https://github.com/khalil-official/droplet-journey/blob/main/docs/verification.md)).
+
 ## 📐 Verified original projects
 
 | Project | What it is | Evidence |
 | --- | --- | --- |
 | [Vortex Notebook](https://github.com/khalil-official/vortex-notebook) | 2D spectral Navier–Stokes (vorticity–streamfunction, strict 2/3-rule, RK4) + executed notebook | 12 tests; roundoff-floor Taylor–Green; padded-reference alias check |
 | [Shockline](https://github.com/khalil-official/shockline-euler) | Conservative 1D Euler finite-volume solvers with exact Riemann benchmarks | 11 tests; contact-convergence orders 1 & 2; 41-frame animation |
+| [Droplet Journey](https://github.com/khalil-official/droplet-journey) | 0-D droplet evaporation and heating with physical stopping events | 10 tests; roundoff-floor d² law; independent reference; 41-frame animation |
 
 *(This index grows as additional original projects complete review — more
 are in progress.)*
