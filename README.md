@@ -7,10 +7,38 @@ references and figures come from recorded runs.
 
 ---
 
+## ▶ Watch the animations
+
+**[Open the full animation gallery](ANIMATIONS.md)** — four published
+animations and eight previews from projects still in review.
+
+### 💠 Khalil Droplet Population Atlas
+
+A bespoke addition in Droplet Journey: 16 droplet-size groups shrink under
+the analytic constant-K law while a liquid/vapor ledger tracks their mass.
+The comparison matches initial mass and D32 with a monodisperse population.
+61 computed frames, raw data, equations and 25 passing project test cases.
+
+**[▶ Open the animated GIF in your browser](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/khalil_population_atlas.gif)**
+
+[![Khalil Droplet Population Atlas: actual computed size and mass histories](media/khalil_population_atlas.gif)](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/khalil_population_atlas.gif)
+
+[Source, equations and reproduction](https://github.com/khalil-official/droplet-journey/blob/main/docs/population_atlas.md).
+Circle positions are schematic; this is an independent-droplet benchmark.
+
+| Animation | Open the GIF |
+| --- | --- |
+| 🌀 Periodic vortex dynamics | [Play Vortex Notebook](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/vorticity_evolution.gif) |
+| ⚡ Sod shock-tube waves | [Play Shockline](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/sod_evolution.gif) |
+| 💧 Single-droplet heating and evaporation | [Play Droplet Journey](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/droplet_journey.gif) |
+
+If your app shows a still preview, tap **Open the animated GIF** and open
+the link in your web browser. The files are animated GIFs, rather than screenshots.
+
 ## 🌀 Featured result — [Vortex Notebook](https://github.com/khalil-official/vortex-notebook)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khalil-official/vortex-notebook/main/docs/results/vorticity_evolution.gif" alt="Computed vorticity evolution from the Vortex Notebook spectral solver" width="640">
+  <a href="https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/vorticity_evolution.gif"><img src="media/vorticity_evolution.gif" alt="Computed vorticity evolution from the Vortex Notebook spectral solver" width="640"></a>
 </div>
 
 <p align="center"><sub>Recorded from the computed nonlinear run (N = 128,
@@ -27,14 +55,14 @@ operator matches an independent 3/2-rule padded reference to 1e-12.</sub></p>
 — conservative 1D Euler waves (first-order Rusanov + second-order
 MUSCL/SSP-RK3) against an exact Newton-iteration Riemann solver: exact
 advected-contact convergence orders 1 and 2 through N=800, published Sod
-star state to 5e-5, 11 tests + CI, and a 41-frame computed shock-tube
+star state to 5e-5, 12 tests + CI, and a 41-frame computed shock-tube
 animation ([results](https://github.com/khalil-official/shockline-euler/blob/main/docs/verification.md)).
 
 **Also verified:** [Droplet Journey](https://github.com/khalil-official/droplet-journey)
 — 0-D droplet evaporation and heating with the Spalding d²-law, correct
 sphere-area lumped heating, and documented threshold stops: frozen-state
 d² validation to 1.7e-16, agreement with an independent tight-tolerance
-reference below 1e-7, 10 tests + CI, and a 41-frame dense-sampled
+reference below 1e-7, 25 test cases + CI, and a 41-frame dense-sampled
 animation ([results](https://github.com/khalil-official/droplet-journey/blob/main/docs/verification.md)).
 
 ## 📐 Verified original projects
@@ -42,8 +70,8 @@ animation ([results](https://github.com/khalil-official/droplet-journey/blob/mai
 | Project | What it is | Evidence |
 | --- | --- | --- |
 | [Vortex Notebook](https://github.com/khalil-official/vortex-notebook) | 2D spectral Navier–Stokes (vorticity–streamfunction, strict 2/3-rule, RK4) + executed notebook | 12 tests; roundoff-floor Taylor–Green; padded-reference alias check |
-| [Shockline](https://github.com/khalil-official/shockline-euler) | Conservative 1D Euler finite-volume solvers with exact Riemann benchmarks | 11 tests; contact-convergence orders 1 & 2; 41-frame animation |
-| [Droplet Journey](https://github.com/khalil-official/droplet-journey) | 0-D droplet evaporation and heating with physical stopping events | 10 tests; roundoff-floor d² law; independent reference; 41-frame animation |
+| [Shockline](https://github.com/khalil-official/shockline-euler) | Conservative 1D Euler finite-volume solvers with exact Riemann benchmarks | 12 tests; contact-convergence orders 1 & 2; 41-frame animation |
+| [Droplet Journey](https://github.com/khalil-official/droplet-journey) | Single-droplet evaporation/heating and the weighted Khalil Population Atlas | 25 test cases; independent coupled reference; 41- and 61-frame animations |
 
 *(This index grows as additional original projects complete review — more
 are in progress.)*
