@@ -23,16 +23,19 @@ operator matches an independent 3/2-rule padded reference to 1e-12.</sub></p>
 - 🔬 [Numerical evidence](https://github.com/khalil-official/vortex-notebook/blob/main/docs/verification.md) — what each of the 12 tests does and does not establish
 - ⚡ Quick start: `pip install -r requirements-dev.txt && python -m pytest tests -q`
 
-**In review:** [Shockline](https://github.com/khalil-official/shockline-euler)
-(conservative 1D Euler, exact Riemann benchmarks) — implementation public,
-[results PR #1](https://github.com/khalil-official/shockline-euler/pull/1)
-under review.
+**Also verified:** [Shockline](https://github.com/khalil-official/shockline-euler)
+— conservative 1D Euler waves (first-order Rusanov + second-order
+MUSCL/SSP-RK3) against an exact Newton-iteration Riemann solver: exact
+advected-contact convergence orders 1 and 2 through N=800, published Sod
+star state to 5e-5, 11 tests + CI, and a 41-frame computed shock-tube
+animation ([results](https://github.com/khalil-official/shockline-euler/blob/main/docs/verification.md)).
 
 ## 📐 Verified original projects
 
 | Project | What it is | Evidence |
 | --- | --- | --- |
 | [Vortex Notebook](https://github.com/khalil-official/vortex-notebook) | 2D spectral Navier–Stokes (vorticity–streamfunction, strict 2/3-rule, RK4) + executed notebook | 12 tests; roundoff-floor Taylor–Green; padded-reference alias check |
+| [Shockline](https://github.com/khalil-official/shockline-euler) | Conservative 1D Euler finite-volume solvers with exact Riemann benchmarks | 11 tests; contact-convergence orders 1 & 2; 41-frame animation |
 
 *(This index grows as additional original projects complete review — more
 are in progress.)*
