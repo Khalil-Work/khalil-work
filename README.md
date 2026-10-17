@@ -2,8 +2,8 @@
 
 PhD researcher (@ UCAS) · Mechanical Engineer — **scientific computing, CFD,
 heat transfer, and numerical verification.** I build small, tested solvers
-and estimation tools where every claim is checked against an analytic
-reference and every figure comes from a recorded run.
+and estimation tools where featured claims are checked against analytic
+references and figures come from recorded runs.
 
 ---
 
@@ -42,11 +42,12 @@ are in progress.)*
 
 ## 🤝 Contributions and bug reports
 
-Every repository ships reproduction commands, pinned dependencies, recorded
-result data, and CI. If a result does not reproduce, please open an issue
-with: the exact command, your runtime versions, and the observed vs.
-documented numbers — that is the fastest path to a fix. Useful reports that
-include a minimal reproducer are always welcome.
+The featured verified originals above ship reproduction commands, pinned
+dependencies, recorded result data, and CI — if one of them does not
+reproduce for you, please open an issue with the exact command, your
+runtime versions, and the observed vs. documented numbers; that is the
+fastest path to a fix. Useful reports with a minimal reproducer are always
+welcome.
 
 ## 📊 Community stats
 
