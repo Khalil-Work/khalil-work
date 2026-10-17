@@ -1,0 +1,65 @@
+### 👋 MOHAMMED AHMED
+
+PhD researcher (@ UCAS) · Mechanical Engineer — **scientific computing, CFD,
+heat transfer, and numerical verification.** I build small, tested solvers
+and estimation tools where every claim is checked against an analytic
+reference and every figure comes from a recorded run.
+
+---
+
+## 🌀 Featured result — [Vortex Notebook](https://github.com/khalil-official/vortex-notebook)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khalil-official/vortex-notebook/main/docs/results/vorticity_evolution.gif" alt="Computed vorticity evolution from the Vortex Notebook spectral solver" width="640">
+</div>
+
+<p align="center"><sub>Recorded from the computed nonlinear run (N = 128,
+ν = 5e-4 m²/s, 41 frames): strictly de-aliased 2D spectral Navier–Stokes.
+Taylor–Green verification error sits at the floating-point roundoff floor
+(1.3e-15); RK4 convergence order measured at 4.03–4.12; the nonlinear
+operator matches an independent 3/2-rule padded reference to 1e-12.</sub></p>
+
+- ▶ [Executable Jupyter guide](https://github.com/khalil-official/vortex-notebook/blob/main/docs/vortex_notebook.ipynb) — derivations + live verification cases
+- 🔬 [Numerical evidence](https://github.com/khalil-official/vortex-notebook/blob/main/docs/verification.md) — what each of the 12 tests does and does not establish
+- ⚡ Quick start: `pip install -r requirements-dev.txt && python -m pytest tests -q`
+
+**In review:** [Shockline](https://github.com/khalil-official/shockline-euler)
+(conservative 1D Euler, exact Riemann benchmarks) — implementation public,
+[results PR #1](https://github.com/khalil-official/shockline-euler/pull/1)
+under review.
+
+## 📐 Verified original projects
+
+| Project | What it is | Evidence |
+| --- | --- | --- |
+| [Vortex Notebook](https://github.com/khalil-official/vortex-notebook) | 2D spectral Navier–Stokes (vorticity–streamfunction, strict 2/3-rule, RK4) + executed notebook | 12 tests; roundoff-floor Taylor–Green; padded-reference alias check |
+
+*(This index grows as additional original projects complete review — more
+are in progress.)*
+
+## 🤝 Contributions and bug reports
+
+Every repository ships reproduction commands, pinned dependencies, recorded
+result data, and CI. If a result does not reproduce, please open an issue
+with: the exact command, your runtime versions, and the observed vs.
+documented numbers — that is the fastest path to a fix. Useful reports that
+include a minimal reproducer are always welcome.
+
+## 📊 Community stats
+
+<div align="center">
+
+<img src="https://github-profile-repo.vercel.app/?username=khalil-official&theme=flat&no-frame=true&column=6&margin-w=12" alt="Community-generated public GitHub statistics" width="100%">
+
+</div>
+
+<p align="center"><sub>Community-generated public GitHub statistics from the
+open-source <a href="https://github.com/ryo-ma/github-profile-trophy">github-profile-trophy</a>
+service — not official GitHub awards, engineering-quality ratings, or
+percentile ranks. Commit counts include the disclosed reconstructed calendar
+records described in those repositories.</sub></p>
+
+---
+
+🔬 Links: [LinkedIn](https://www.linkedin.com/in/mohammed-khalil1/) ·
+[YouTube](https://www.youtube.com/@MohammedKHALIIL)
