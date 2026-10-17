@@ -7,16 +7,6 @@ references and figures come from recorded runs.
 
 ---
 
-## 📅 Daily activity · fixed intensity scale
-
-[![Contribution-count snapshot: low 1–2, medium 3–9, high 10+](media/activity-2026.svg)](data/contributions-2026.json)
-
-**Low = 1–2 · Medium = 3–9 · High = 10+ contributions per day.**
-This dated profile card uses recorded GitHub counts and fixed ranges.
-GitHub’s native contribution graph uses its own relative color levels.
-Historical counts include the disclosed calendar-reconstruction records.
-[Data](data/contributions-2026.json) · [Reproduce the SVG](tools/render_activity_calendar.py)
-
 ## ▶ Watch the animations
 
 **[Open the full animation gallery](ANIMATIONS.md)** — four published
@@ -113,3 +103,5 @@ records described in those repositories.</sub></p>
 
 🔬 Links: [LinkedIn](https://www.linkedin.com/in/mohammed-khalil1/) ·
 [YouTube](https://www.youtube.com/@MohammedKHALIIL)
+
+Calendar note: the native 2024–2026 contribution graph includes [disclosed reconstructed date records](docs/CALENDAR_HISTORY_2024_2026.md).
