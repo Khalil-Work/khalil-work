@@ -9,8 +9,8 @@ references and figures come from recorded runs.
 
 ## ▶ Watch the animations
 
-**[Open the full animation gallery](ANIMATIONS.md)** — four published
-animations and eight previews from projects still in review.
+**[Open the full animation gallery](ANIMATIONS.md)** — six published
+animations and six previews from projects still in review.
 
 ### 💠 Khalil Droplet Population Atlas
 
@@ -31,6 +31,8 @@ Circle positions are schematic; this is an independent-droplet benchmark.
 | 🌀 Periodic vortex dynamics | [Play Vortex Notebook](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/vorticity_evolution.gif) |
 | ⚡ Sod shock-tube waves | [Play Shockline](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/sod_evolution.gif) |
 | 💧 Single-droplet heating and evaporation | [Play Droplet Journey](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/droplet_journey.gif) |
+| 📡 State-estimation and covariance diagnostics | [Play Trajectory Fusion](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/covariance_ellipses.gif) |
+| 🎯 Native Fortran root-finding comparison | [Play Bracket Root](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/bracket_animation.gif) |
 
 If your app shows a still preview, tap **Open the animated GIF** and open
 the link in your web browser. The files are animated GIFs, rather than screenshots.
@@ -72,6 +74,8 @@ animation ([results](https://github.com/khalil-official/droplet-journey/blob/mai
 | [Vortex Notebook](https://github.com/khalil-official/vortex-notebook) | 2D spectral Navier–Stokes (vorticity–streamfunction, strict 2/3-rule, RK4) + executed notebook | 12 tests; roundoff-floor Taylor–Green; padded-reference alias check |
 | [Shockline](https://github.com/khalil-official/shockline-euler) | Conservative 1D Euler finite-volume solvers with exact Riemann benchmarks | 12 tests; contact-convergence orders 1 & 2; 41-frame animation |
 | [Droplet Journey](https://github.com/khalil-official/droplet-journey) | Single-droplet evaporation/heating and the weighted Khalil Population Atlas | 25 test cases; independent coupled reference; 41- and 61-frame animations |
+| [Trajectory Fusion](https://github.com/khalil-official/trajectory-fusion-c) | Native C99 Kalman filter with a documented synthetic trajectory | GCC build; NIS/NEES Monte Carlo checks; zero-noise anchor; 60-frame animation |
+| [Bracket Root](https://github.com/khalil-official/bracket-root-fortran) | Native Fortran bracketed scalar solvers and midpoint error bounds | 103 assertions; four reference equations; 13 saved CSVs; 46-frame animation |
 
 *(This index grows as additional original projects complete review — more
 are in progress.)*
