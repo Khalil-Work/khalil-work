@@ -79,12 +79,26 @@ Centered covariance sensitivity with row bootstrap; 88 tests, affine-invariance 
 
 [![Variance Compass computed animation](media/variance_compass_convergence.gif)](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/variance_compass_convergence.gif)
 
+### Channel Lattice
+
+D2Q9 channel flow with exact wall placement and Guo forcing. 68 tests; independent Poiseuille benchmark; relative L2 error 2.09e-4.
+
+[**Open animation · 62 frames**](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/channel_profile_development.gif) · [Project and reproduction](https://github.com/khalil-official/channel-lattice)
+
+[![Channel Lattice computed animation](media/channel_profile_development.gif)](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/channel_profile_development.gif)
+
+### Droplet PINN Studio
+
+Equal-budget hard/soft initial-condition PINNs for the normalized droplet ODE. 6 CPU tests; reproduced seed-0 profile; held-out maximum absolute error 7.72e-5.
+
+[**Open animation · 40 frames**](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/pinn_optimizer_progress.gif) · [Project and reproduction](https://github.com/khalil-official/droplet-pinn-studio)
+
+[![Droplet PINN Studio computed animation](media/pinn_optimizer_progress.gif)](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/pinn_optimizer_progress.gif)
+
 ## 🛠️ Results still in review
 
 These preview GIFs are on review branches rather than the default project pages. Their numerical/documentation review is ongoing. Links are pinned to the inspected commit; a visible preview does not mean the project has passed final review.
 
-- [Channel Lattice — open 60-frame preview](https://raw.githubusercontent.com/khalil-official/channel-lattice/8edbad48666445ea53b840614b8ac3b702840b50/docs/results/profile_development.gif) · [review](https://github.com/khalil-official/channel-lattice/pull/1)
 - [Ignition Zero — open 41-frame preview](https://raw.githubusercontent.com/khalil-official/ignition-zero/ea2441f7ae986a41d7e6d82053270da640da24c6/docs/results/ignition_evolution.gif) · [review](https://github.com/khalil-official/ignition-zero/pull/1)
-- [Droplet PINN Studio — open 40-frame preview](https://raw.githubusercontent.com/khalil-official/droplet-pinn-studio/7966f8ce7f26a08fe8f0d9597427119af75102de/docs/results/training_evolution.gif) · [review](https://github.com/khalil-official/droplet-pinn-studio/pull/1)
 - [Truss Equilibrium — open 41-frame preview](https://raw.githubusercontent.com/khalil-official/truss-equilibrium/b2f98c311382fb41a1e843788f2fc35c07e70815/docs/results/load_progression.gif) · [review](https://github.com/khalil-official/truss-equilibrium/pull/1)
 - [Modal Current — open 60-frame preview](https://raw.githubusercontent.com/khalil-official/modal-current/f45e369fe51e45fc385fbab3e9ee42a0490e84a7/docs/results/modal_current_demo.gif) · [review](https://github.com/khalil-official/modal-current/pull/1)

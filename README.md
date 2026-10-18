@@ -9,8 +9,8 @@ references and figures come from recorded runs.
 
 ## ▶ Watch the animations
 
-**[Open the full animation gallery](ANIMATIONS.md)** — ten published
-animations and five previews from projects still in review.
+**[Open the full animation gallery](ANIMATIONS.md)** — twelve published
+animations and three previews from projects still in review.
 
 ### 💠 Khalil Droplet Population Atlas
 
@@ -37,6 +37,8 @@ Circle positions are schematic; this is an independent-droplet benchmark.
 | Thermal Streams | [Play Thermal Streams](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/thermal_counterflow_profiles.gif) |
 | Pipeflow Bench | [Play Pipeflow Bench](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/pipeflow_bisection.gif) |
 | Variance Compass | [Play Variance Compass](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/variance_compass_convergence.gif) |
+| Channel Lattice | [Play Channel Lattice](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/channel_profile_development.gif) |
+| Droplet PINN Studio | [Play Droplet PINN Studio](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/pinn_optimizer_progress.gif) |
 
 If your app shows a still preview, tap **Open the animated GIF** and open
 the link in your web browser. The files are animated GIFs, rather than screenshots.
@@ -84,6 +86,8 @@ animation ([results](https://github.com/khalil-official/droplet-journey/blob/mai
 | [Thermal Streams](https://github.com/khalil-official/thermal-streams) | Heat-exchanger rating and conditioned temperature fields | 770 parametrized cases, 80-digit reference, both capacity orientations; 48-frame animation |
 | [Pipeflow Bench](https://github.com/khalil-official/pipeflow-bench) | Pipe friction and pressure loss with residual-based stopping | 39 tests, actual solver traces and explicit transition flags; 43-frame animation |
 | [Variance Compass](https://github.com/khalil-official/variance-compass) | Centered covariance sensitivity with row bootstrap | 88 tests, affine-invariance regression and analytic Ishigami comparisons; 44-frame animation |
+| [Channel Lattice](https://github.com/khalil-official/channel-lattice) | D2Q9 channel flow with exact wall placement and Guo forcing | 68 tests; independent Poiseuille benchmark; relative L2 error 2.09e-4; 62-frame animation |
+| [Droplet PINN Studio](https://github.com/khalil-official/droplet-pinn-studio) | Equal-budget hard/soft initial-condition PINNs for the normalized droplet ODE | 6 CPU tests; reproduced seed-0 profile; held-out maximum absolute error 7.72e-5; 40-frame animation |
 
 *(This index grows as additional original projects complete review — more
 are in progress.)*
