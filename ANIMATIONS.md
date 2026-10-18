@@ -47,6 +47,38 @@ Actual Fortran bracket histories for the cubic reference case; bisection and saf
 
 [![Bracket Root computed animation](media/bracket_animation.gif)](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/bracket_animation.gif)
 
+### Energy Flow Atlas
+
+Balanced power ledger and quantitative Sankey geometry; 23 tests, seven transfers, fixed scale and saved frame data.
+
+[**Open animation · 41 frames**](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/energy_flow_load_sweep.gif) · [Project and reproduction](https://github.com/khalil-official/energy-flow-atlas)
+
+[![Energy Flow Atlas computed animation](media/energy_flow_load_sweep.gif)](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/energy_flow_load_sweep.gif)
+
+### Thermal Streams
+
+Heat-exchanger rating and conditioned temperature fields; 770 parametrized cases, 80-digit reference, both capacity orientations.
+
+[**Open animation · 48 frames**](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/thermal_counterflow_profiles.gif) · [Project and reproduction](https://github.com/khalil-official/thermal-streams)
+
+[![Thermal Streams computed animation](media/thermal_counterflow_profiles.gif)](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/thermal_counterflow_profiles.gif)
+
+### Pipeflow Bench
+
+Pipe friction and pressure loss with residual-based stopping; 39 tests, actual solver traces and explicit transition flags.
+
+[**Open animation · 43 frames**](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/pipeflow_bisection.gif) · [Project and reproduction](https://github.com/khalil-official/pipeflow-bench)
+
+[![Pipeflow Bench computed animation](media/pipeflow_bisection.gif)](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/pipeflow_bisection.gif)
+
+### Variance Compass
+
+Centered covariance sensitivity with row bootstrap; 88 tests, affine-invariance regression and analytic Ishigami comparisons.
+
+[**Open animation · 44 frames**](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/variance_compass_convergence.gif) · [Project and reproduction](https://github.com/khalil-official/variance-compass)
+
+[![Variance Compass computed animation](media/variance_compass_convergence.gif)](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/variance_compass_convergence.gif)
+
 ## 🛠️ Results still in review
 
 These preview GIFs are on review branches rather than the default project pages. Their numerical/documentation review is ongoing. Links are pinned to the inspected commit; a visible preview does not mean the project has passed final review.
@@ -56,4 +88,3 @@ These preview GIFs are on review branches rather than the default project pages.
 - [Droplet PINN Studio — open 40-frame preview](https://raw.githubusercontent.com/khalil-official/droplet-pinn-studio/7966f8ce7f26a08fe8f0d9597427119af75102de/docs/results/training_evolution.gif) · [review](https://github.com/khalil-official/droplet-pinn-studio/pull/1)
 - [Truss Equilibrium — open 41-frame preview](https://raw.githubusercontent.com/khalil-official/truss-equilibrium/b2f98c311382fb41a1e843788f2fc35c07e70815/docs/results/load_progression.gif) · [review](https://github.com/khalil-official/truss-equilibrium/pull/1)
 - [Modal Current — open 60-frame preview](https://raw.githubusercontent.com/khalil-official/modal-current/f45e369fe51e45fc385fbab3e9ee42a0490e84a7/docs/results/modal_current_demo.gif) · [review](https://github.com/khalil-official/modal-current/pull/1)
-- [Thermal Streams — open 48-frame preview](https://raw.githubusercontent.com/khalil-official/thermal-streams/a9945a1/docs/results/counterflow_profiles_ntu.gif) · [source snapshot](https://github.com/khalil-official/thermal-streams/tree/a9945a1)
