@@ -33,7 +33,6 @@ Circle positions are schematic; this is an independent-droplet benchmark.
 | 💧 Single-droplet heating and evaporation | [Play Droplet Journey](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/droplet_journey.gif) |
 | 📡 State-estimation and covariance diagnostics | [Play Trajectory Fusion](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/covariance_ellipses.gif) |
 | 🎯 Native Fortran root-finding comparison | [Play Bracket Root](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/bracket_animation.gif) |
-
 | Energy Flow Atlas | [Play Energy Flow Atlas](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/energy_flow_load_sweep.gif) |
 | Thermal Streams | [Play Thermal Streams](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/thermal_counterflow_profiles.gif) |
 | Pipeflow Bench | [Play Pipeflow Bench](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/pipeflow_bisection.gif) |
@@ -81,7 +80,6 @@ animation ([results](https://github.com/khalil-official/droplet-journey/blob/mai
 | [Droplet Journey](https://github.com/khalil-official/droplet-journey) | Single-droplet evaporation/heating and the weighted Khalil Population Atlas | 25 test cases; independent coupled reference; 41- and 61-frame animations |
 | [Trajectory Fusion](https://github.com/khalil-official/trajectory-fusion-c) | Native C99 Kalman filter with a documented synthetic trajectory | GCC build; NIS/NEES Monte Carlo checks; zero-noise anchor; 60-frame animation |
 | [Bracket Root](https://github.com/khalil-official/bracket-root-fortran) | Native Fortran bracketed scalar solvers and midpoint error bounds | 103 assertions; four reference equations; 13 saved CSVs; 46-frame animation |
-
 | [Energy Flow Atlas](https://github.com/khalil-official/energy-flow-atlas) | Balanced power ledger and quantitative Sankey geometry | 23 tests, seven transfers, fixed scale and saved frame data; 41-frame animation |
 | [Thermal Streams](https://github.com/khalil-official/thermal-streams) | Heat-exchanger rating and conditioned temperature fields | 770 parametrized cases, 80-digit reference, both capacity orientations; 48-frame animation |
 | [Pipeflow Bench](https://github.com/khalil-official/pipeflow-bench) | Pipe friction and pressure loss with residual-based stopping | 39 tests, actual solver traces and explicit transition flags; 43-frame animation |
