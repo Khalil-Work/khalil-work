@@ -1,4 +1,4 @@
-### 👋 MOHAMMED AHMED
+### 👋 KHALIL
 
 PhD researcher (@ UCAS) · Mechanical Engineer — **scientific computing, CFD,
 heat transfer, and numerical verification.** I build small, tested solvers
@@ -19,34 +19,34 @@ the analytic constant-K law while a liquid/vapor ledger tracks their mass.
 The comparison matches initial mass and D32 with a monodisperse population.
 61 computed frames, raw data, equations and 25 passing project test cases.
 
-**[▶ Open the animated GIF in your browser](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/khalil_population_atlas.gif)**
+**[▶ Open the animated GIF in your browser](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/khalil_population_atlas.gif)**
 
-[![Khalil Droplet Population Atlas: actual computed size and mass histories](media/khalil_population_atlas.gif)](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/khalil_population_atlas.gif)
+[![Khalil Droplet Population Atlas: actual computed size and mass histories](media/khalil_population_atlas.gif)](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/khalil_population_atlas.gif)
 
-[Source, equations and reproduction](https://github.com/khalil-official/droplet-journey/blob/main/docs/population_atlas.md).
+[Source, equations and reproduction](https://github.com/khalil-work/droplet-journey/blob/main/docs/population_atlas.md).
 Circle positions are schematic; this is an independent-droplet benchmark.
 
 | Animation | Open the GIF |
 | --- | --- |
-| 🌀 Periodic vortex dynamics | [Play Vortex Notebook](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/vorticity_evolution.gif) |
-| ⚡ Sod shock-tube waves | [Play Shockline](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/sod_evolution.gif) |
-| 💧 Single-droplet heating and evaporation | [Play Droplet Journey](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/droplet_journey.gif) |
-| 📡 State-estimation and covariance diagnostics | [Play Trajectory Fusion](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/covariance_ellipses.gif) |
-| 🎯 Native Fortran root-finding comparison | [Play Bracket Root](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/bracket_animation.gif) |
-| Energy Flow Atlas | [Play Energy Flow Atlas](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/energy_flow_load_sweep.gif) |
-| Thermal Streams | [Play Thermal Streams](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/thermal_counterflow_profiles.gif) |
-| Pipeflow Bench | [Play Pipeflow Bench](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/pipeflow_bisection.gif) |
-| Variance Compass | [Play Variance Compass](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/variance_compass_convergence.gif) |
-| Channel Lattice | [Play Channel Lattice](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/channel_profile_development.gif) |
-| Droplet PINN Studio | [Play Droplet PINN Studio](https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/pinn_optimizer_progress.gif) |
+| 🌀 Periodic vortex dynamics | [Play Vortex Notebook](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/vorticity_evolution.gif) |
+| ⚡ Sod shock-tube waves | [Play Shockline](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/sod_evolution.gif) |
+| 💧 Single-droplet heating and evaporation | [Play Droplet Journey](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/droplet_journey.gif) |
+| 📡 State-estimation and covariance diagnostics | [Play Trajectory Fusion](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/covariance_ellipses.gif) |
+| 🎯 Native Fortran root-finding comparison | [Play Bracket Root](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/bracket_animation.gif) |
+| Energy Flow Atlas | [Play Energy Flow Atlas](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/energy_flow_load_sweep.gif) |
+| Thermal Streams | [Play Thermal Streams](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/thermal_counterflow_profiles.gif) |
+| Pipeflow Bench | [Play Pipeflow Bench](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/pipeflow_bisection.gif) |
+| Variance Compass | [Play Variance Compass](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/variance_compass_convergence.gif) |
+| Channel Lattice | [Play Channel Lattice](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/channel_profile_development.gif) |
+| Droplet PINN Studio | [Play Droplet PINN Studio](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/pinn_optimizer_progress.gif) |
 
 If your app shows a still preview, tap **Open the animated GIF** and open
 the link in your web browser. The files are animated GIFs, rather than screenshots.
 
-## 🌀 Featured result — [Vortex Notebook](https://github.com/khalil-official/vortex-notebook)
+## 🌀 Featured result — [Vortex Notebook](https://github.com/khalil-work/vortex-notebook)
 
 <div align="center">
-  <a href="https://github.com/khalil-official/khalil-official/raw/refs/heads/main/media/vorticity_evolution.gif"><img src="media/vorticity_evolution.gif" alt="Computed vorticity evolution from the Vortex Notebook spectral solver" width="640"></a>
+  <a href="https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/vorticity_evolution.gif"><img src="media/vorticity_evolution.gif" alt="Computed vorticity evolution from the Vortex Notebook spectral solver" width="640"></a>
 </div>
 
 <p align="center"><sub>Recorded from the computed nonlinear run (N = 128,
@@ -55,39 +55,39 @@ Taylor–Green verification error sits at the floating-point roundoff floor
 (1.3e-15); RK4 convergence order measured at 4.03–4.12; the nonlinear
 operator matches an independent 3/2-rule padded reference to 1e-12.</sub></p>
 
-- ▶ [Executable Jupyter guide](https://github.com/khalil-official/vortex-notebook/blob/main/docs/vortex_notebook.ipynb) — derivations + live verification cases
-- 🔬 [Numerical evidence](https://github.com/khalil-official/vortex-notebook/blob/main/docs/verification.md) — what each of the 12 tests does and does not establish
+- ▶ [Executable Jupyter guide](https://github.com/khalil-work/vortex-notebook/blob/main/docs/vortex_notebook.ipynb) — derivations + live verification cases
+- 🔬 [Numerical evidence](https://github.com/khalil-work/vortex-notebook/blob/main/docs/verification.md) — what each of the 12 tests does and does not establish
 - ⚡ Quick start: `pip install -r requirements-dev.txt && python -m pytest tests -q`
 
-**Also verified:** [Shockline](https://github.com/khalil-official/shockline-euler)
+**Also verified:** [Shockline](https://github.com/khalil-work/shockline-euler)
 — conservative 1D Euler waves (first-order Rusanov + second-order
 MUSCL/SSP-RK3) against an exact Newton-iteration Riemann solver: exact
 advected-contact convergence orders 1 and 2 through N=800, published Sod
 star state to 5e-5, 12 tests + CI, and a 41-frame computed shock-tube
-animation ([results](https://github.com/khalil-official/shockline-euler/blob/main/docs/verification.md)).
+animation ([results](https://github.com/khalil-work/shockline-euler/blob/main/docs/verification.md)).
 
-**Also verified:** [Droplet Journey](https://github.com/khalil-official/droplet-journey)
+**Also verified:** [Droplet Journey](https://github.com/khalil-work/droplet-journey)
 — 0-D droplet evaporation and heating with the Spalding d²-law, correct
 sphere-area lumped heating, and documented threshold stops: frozen-state
 d² validation to 1.7e-16, agreement with an independent tight-tolerance
 reference below 1e-7, 25 test cases + CI, and a 41-frame dense-sampled
-animation ([results](https://github.com/khalil-official/droplet-journey/blob/main/docs/verification.md)).
+animation ([results](https://github.com/khalil-work/droplet-journey/blob/main/docs/verification.md)).
 
 ## 📐 Verified original projects
 
 | Project | What it is | Evidence |
 | --- | --- | --- |
-| [Vortex Notebook](https://github.com/khalil-official/vortex-notebook) | 2D spectral Navier–Stokes (vorticity–streamfunction, strict 2/3-rule, RK4) + executed notebook | 12 tests; roundoff-floor Taylor–Green; padded-reference alias check |
-| [Shockline](https://github.com/khalil-official/shockline-euler) | Conservative 1D Euler finite-volume solvers with exact Riemann benchmarks | 12 tests; contact-convergence orders 1 & 2; 41-frame animation |
-| [Droplet Journey](https://github.com/khalil-official/droplet-journey) | Single-droplet evaporation/heating and the weighted Khalil Population Atlas | 25 test cases; independent coupled reference; 41- and 61-frame animations |
-| [Trajectory Fusion](https://github.com/khalil-official/trajectory-fusion-c) | Native C99 Kalman filter with a documented synthetic trajectory | GCC build; NIS/NEES Monte Carlo checks; zero-noise anchor; 60-frame animation |
-| [Bracket Root](https://github.com/khalil-official/bracket-root-fortran) | Native Fortran bracketed scalar solvers and midpoint error bounds | 103 assertions; four reference equations; 13 saved CSVs; 46-frame animation |
-| [Energy Flow Atlas](https://github.com/khalil-official/energy-flow-atlas) | Balanced power ledger and quantitative Sankey geometry | 23 tests, seven transfers, fixed scale and saved frame data; 41-frame animation |
-| [Thermal Streams](https://github.com/khalil-official/thermal-streams) | Heat-exchanger rating and conditioned temperature fields | 770 parametrized cases, 80-digit reference, both capacity orientations; 48-frame animation |
-| [Pipeflow Bench](https://github.com/khalil-official/pipeflow-bench) | Pipe friction and pressure loss with residual-based stopping | 39 tests, actual solver traces and explicit transition flags; 43-frame animation |
-| [Variance Compass](https://github.com/khalil-official/variance-compass) | Centered covariance sensitivity with row bootstrap | 88 tests, affine-invariance regression and analytic Ishigami comparisons; 44-frame animation |
-| [Channel Lattice](https://github.com/khalil-official/channel-lattice) | D2Q9 channel flow with exact wall placement and Guo forcing | 68 tests; independent Poiseuille benchmark; relative L2 error 2.09e-4; 62-frame animation |
-| [Droplet PINN Studio](https://github.com/khalil-official/droplet-pinn-studio) | Equal-budget hard/soft initial-condition PINNs for the normalized droplet ODE | 6 CPU tests; reproduced seed-0 profile; held-out maximum absolute error 7.72e-5; 40-frame animation |
+| [Vortex Notebook](https://github.com/khalil-work/vortex-notebook) | 2D spectral Navier–Stokes (vorticity–streamfunction, strict 2/3-rule, RK4) + executed notebook | 12 tests; roundoff-floor Taylor–Green; padded-reference alias check |
+| [Shockline](https://github.com/khalil-work/shockline-euler) | Conservative 1D Euler finite-volume solvers with exact Riemann benchmarks | 12 tests; contact-convergence orders 1 & 2; 41-frame animation |
+| [Droplet Journey](https://github.com/khalil-work/droplet-journey) | Single-droplet evaporation/heating and the weighted Khalil Population Atlas | 25 test cases; independent coupled reference; 41- and 61-frame animations |
+| [Trajectory Fusion](https://github.com/khalil-work/trajectory-fusion-c) | Native C99 Kalman filter with a documented synthetic trajectory | GCC build; NIS/NEES Monte Carlo checks; zero-noise anchor; 60-frame animation |
+| [Bracket Root](https://github.com/khalil-work/bracket-root-fortran) | Native Fortran bracketed scalar solvers and midpoint error bounds | 103 assertions; four reference equations; 13 saved CSVs; 46-frame animation |
+| [Energy Flow Atlas](https://github.com/khalil-work/energy-flow-atlas) | Balanced power ledger and quantitative Sankey geometry | 23 tests, seven transfers, fixed scale and saved frame data; 41-frame animation |
+| [Thermal Streams](https://github.com/khalil-work/thermal-streams) | Heat-exchanger rating and conditioned temperature fields | 770 parametrized cases, 80-digit reference, both capacity orientations; 48-frame animation |
+| [Pipeflow Bench](https://github.com/khalil-work/pipeflow-bench) | Pipe friction and pressure loss with residual-based stopping | 39 tests, actual solver traces and explicit transition flags; 43-frame animation |
+| [Variance Compass](https://github.com/khalil-work/variance-compass) | Centered covariance sensitivity with row bootstrap | 88 tests, affine-invariance regression and analytic Ishigami comparisons; 44-frame animation |
+| [Channel Lattice](https://github.com/khalil-work/channel-lattice) | D2Q9 channel flow with exact wall placement and Guo forcing | 68 tests; independent Poiseuille benchmark; relative L2 error 2.09e-4; 62-frame animation |
+| [Droplet PINN Studio](https://github.com/khalil-work/droplet-pinn-studio) | Equal-budget hard/soft initial-condition PINNs for the normalized droplet ODE | 6 CPU tests; reproduced seed-0 profile; held-out maximum absolute error 7.72e-5; 40-frame animation |
 
 *(This index grows as additional original projects complete review — more
 are in progress.)*
@@ -105,7 +105,7 @@ welcome.
 
 <div align="center">
 
-<img src="https://github-profile-repo.vercel.app/?username=khalil-official&theme=flat&no-frame=true&column=6&margin-w=12" alt="Community-generated public GitHub statistics" width="100%">
+<img src="https://github-profile-repo.vercel.app/?username=khalil-work&theme=flat&no-frame=true&column=6&margin-w=12" alt="Community-generated public GitHub statistics" width="100%">
 
 </div>
 
