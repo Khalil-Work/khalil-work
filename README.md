@@ -1,3 +1,10 @@
+
+## U{1F310} Website
+
+My full academic homepage with projects, skills and contact:
+
+**[khalil-work.github.io](https://khalil-work.github.io)**
+
 ### 👋 KHALIL
 
 PhD researcher (@ UCAS) · Mechanical Engineer — **scientific computing, CFD,
