@@ -108,6 +108,14 @@ runtime versions, and the observed vs. documented numbers; that is the
 fastest path to a fix. Useful reports with a minimal reproducer are always
 welcome.
 
+## 🏆 Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Khalil-Work&theme=flat&no-frame=true&column=7&margin-w=12" alt="Profile trophies for Khalil-Work" width="100%">
+
+</div>
+
 ## 📊 Community stats
 
 <div align="center">
