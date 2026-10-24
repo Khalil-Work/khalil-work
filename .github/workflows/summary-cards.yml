@@ -1,0 +1,23 @@
+name: generate profile summary cards
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit output
+        run: |
+          git config user.name "KHALIL"
+          git config user.email "187591094+khalil-work@users.noreply.github.com"
+          git add profile-summary-card-output/*
+          git diff --cached --quiet || (git commit -m "generate profile summary cards" && git push)

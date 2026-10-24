@@ -126,6 +126,12 @@ When I'm not simulating flows, I'm somewhere in the mountains.
 
 <div align="center">
 
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="profile-summary-card-output/0-profile-details.svg" alt="profile summary - totals for commits, issues and pull requests"></a>
+
+</div>
+
+<div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="165" src="https://github-readme-stats.vercel.app/api?username=khalil-work&show_icons=true&hide_border=true&bg_color=0B1D33&title_color=E8B04B&icon_color=E8B04B&text_color=C9D7E8&include_all_commits=false" alt="GitHub stats"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-work&layout=compact&hide_border=true&bg_color=0B1D33&title_color=E8B04B&text_color=C9D7E8&langs_count=8" alt="top languages"></a>
 
