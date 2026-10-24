@@ -1,7 +1,7 @@
 
 ## U{1F310} Website
 
-Curated: [awesome-verified-scientific-computing](https://github.com/khalil-work/awesome-verified-scientific-computing) - a list of honestly verified scientific codes.
+Curated: [verified-scientific-computing](https://github.com/khalil-work/verified-scientific-computing) - a list of honestly verified scientific codes.
 
 My full academic homepage with projects, skills and contact:
 
