@@ -1,140 +1,125 @@
+<div id="top"></div>
 
-## U{1F310} Website
+<div align="center"><img width="100%" alt="KHALIL - CFD, Scientific Machine Learning, Numerical Methods" src="assets/header.png"></div>
 
-Curated: [verified-scientific-computing](https://github.com/khalil-work/verified-scientific-computing) - a list of honestly verified scientific codes.
-
-My full academic homepage with projects, skills and contact:
-
-**[khalil-work.github.io](https://khalil-work.github.io)**
-
-### 👋 KHALIL
-
-PhD researcher (@ UCAS) · Mechanical Engineer — **scientific computing, CFD,
-heat transfer, and numerical verification.** I build small, tested solvers
-and estimation tools where featured claims are checked against analytic
-references and figures come from recorded runs.
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=E8B04B&size=28&center=true&vCenter=true&width=640&lines=I'm+KHALIL;PhD+Candidate+%E2%80%94+Mechanical+Engineer;CFD+Researcher+%7C+Numerical+Methods;Scientific+Machine+Learning;Aviation+Enthusiast+%E2%9C%88%EF%B8%8F;Lost+in+the+Mountains+%F0%9F%8F%94%EF%B8%8F" alt="KHALIL — PhD Candidate, Mechanical Engineer, CFD Researcher, Scientific Machine Learning, Aviation Enthusiast"></a>
+</div>
 
 ---
 
-## ▶ Watch the animations
+### 🧭 About me
 
-**[Open the full animation gallery](ANIMATIONS.md)** — twelve published
-animations and three previews from projects still in review.
-
-### 💠 Khalil Droplet Population Atlas
-
-A bespoke addition in Droplet Journey: 16 droplet-size groups shrink under
-the analytic constant-K law while a liquid/vapor ledger tracks their mass.
-The comparison matches initial mass and D32 with a monodisperse population.
-61 computed frames, raw data, equations and 25 passing project test cases.
-
-**[▶ Open the animated GIF in your browser](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/khalil_population_atlas.gif)**
-
-[![Khalil Droplet Population Atlas: actual computed size and mass histories](media/khalil_population_atlas.gif)](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/khalil_population_atlas.gif)
-
-[Source, equations and reproduction](https://github.com/khalil-work/droplet-journey/blob/main/docs/population_atlas.md).
-Circle positions are schematic; this is an independent-droplet benchmark.
-
-| Animation | Open the GIF |
-| --- | --- |
-| 🌀 Periodic vortex dynamics | [Play Vortex Notebook](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/vorticity_evolution.gif) |
-| ⚡ Sod shock-tube waves | [Play Shockline](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/sod_evolution.gif) |
-| 💧 Single-droplet heating and evaporation | [Play Droplet Journey](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/droplet_journey.gif) |
-| 📡 State-estimation and covariance diagnostics | [Play Trajectory Fusion](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/covariance_ellipses.gif) |
-| 🎯 Native Fortran root-finding comparison | [Play Bracket Root](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/bracket_animation.gif) |
-| Energy Flow Atlas | [Play Energy Flow Atlas](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/energy_flow_load_sweep.gif) |
-| Thermal Streams | [Play Thermal Streams](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/thermal_counterflow_profiles.gif) |
-| Pipeflow Bench | [Play Pipeflow Bench](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/pipeflow_bisection.gif) |
-| Variance Compass | [Play Variance Compass](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/variance_compass_convergence.gif) |
-| Channel Lattice | [Play Channel Lattice](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/channel_profile_development.gif) |
-| Droplet PINN Studio | [Play Droplet PINN Studio](https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/pinn_optimizer_progress.gif) |
-
-If your app shows a still preview, tap **Open the animated GIF** and open
-the link in your web browser. The files are animated GIFs, rather than screenshots.
-
-## 🌀 Featured result — [Vortex Notebook](https://github.com/khalil-work/vortex-notebook)
-
-<div align="center">
-  <a href="https://github.com/khalil-work/khalil-work/raw/refs/heads/main/media/vorticity_evolution.gif"><img src="media/vorticity_evolution.gif" alt="Computed vorticity evolution from the Vortex Notebook spectral solver" width="640"></a>
-</div>
-
-<p align="center"><sub>Recorded from the computed nonlinear run (N = 128,
-ν = 5e-4 m²/s, 41 frames): strictly de-aliased 2D spectral Navier–Stokes.
-Taylor–Green verification error sits at the floating-point roundoff floor
-(1.3e-15); RK4 convergence order measured at 4.03–4.12; the nonlinear
-operator matches an independent 3/2-rule padded reference to 1e-12.</sub></p>
-
-- ▶ [Executable Jupyter guide](https://github.com/khalil-work/vortex-notebook/blob/main/docs/vortex_notebook.ipynb) — derivations + live verification cases
-- 🔬 [Numerical evidence](https://github.com/khalil-work/vortex-notebook/blob/main/docs/verification.md) — what each of the 12 tests does and does not establish
-- ⚡ Quick start: `pip install -r requirements-dev.txt && python -m pytest tests -q`
-
-**Also verified:** [Shockline](https://github.com/khalil-work/shockline-euler)
-— conservative 1D Euler waves (first-order Rusanov + second-order
-MUSCL/SSP-RK3) against an exact Newton-iteration Riemann solver: exact
-advected-contact convergence orders 1 and 2 through N=800, published Sod
-star state to 5e-5, 12 tests + CI, and a 41-frame computed shock-tube
-animation ([results](https://github.com/khalil-work/shockline-euler/blob/main/docs/verification.md)).
-
-**Also verified:** [Droplet Journey](https://github.com/khalil-work/droplet-journey)
-— 0-D droplet evaporation and heating with the Spalding d²-law, correct
-sphere-area lumped heating, and documented threshold stops: frozen-state
-d² validation to 1.7e-16, agreement with an independent tight-tolerance
-reference below 1e-7, 25 test cases + CI, and a 41-frame dense-sampled
-animation ([results](https://github.com/khalil-work/droplet-journey/blob/main/docs/verification.md)).
-
-## 📐 Verified original projects
-
-| Project | What it is | Evidence |
-| --- | --- | --- |
-| [Vortex Notebook](https://github.com/khalil-work/vortex-notebook) | 2D spectral Navier–Stokes (vorticity–streamfunction, strict 2/3-rule, RK4) + executed notebook | 12 tests; roundoff-floor Taylor–Green; padded-reference alias check |
-| [Shockline](https://github.com/khalil-work/shockline-euler) | Conservative 1D Euler finite-volume solvers with exact Riemann benchmarks | 12 tests; contact-convergence orders 1 & 2; 41-frame animation |
-| [Droplet Journey](https://github.com/khalil-work/droplet-journey) | Single-droplet evaporation/heating and the weighted Khalil Population Atlas | 25 test cases; independent coupled reference; 41- and 61-frame animations |
-| [Trajectory Fusion](https://github.com/khalil-work/trajectory-fusion-c) | Native C99 Kalman filter with a documented synthetic trajectory | GCC build; NIS/NEES Monte Carlo checks; zero-noise anchor; 60-frame animation |
-| [Bracket Root](https://github.com/khalil-work/bracket-root-fortran) | Native Fortran bracketed scalar solvers and midpoint error bounds | 103 assertions; four reference equations; 13 saved CSVs; 46-frame animation |
-| [Energy Flow Atlas](https://github.com/khalil-work/energy-flow-atlas) | Balanced power ledger and quantitative Sankey geometry | 23 tests, seven transfers, fixed scale and saved frame data; 41-frame animation |
-| [Thermal Streams](https://github.com/khalil-work/thermal-streams) | Heat-exchanger rating and conditioned temperature fields | 770 parametrized cases, 80-digit reference, both capacity orientations; 48-frame animation |
-| [Pipeflow Bench](https://github.com/khalil-work/pipeflow-bench) | Pipe friction and pressure loss with residual-based stopping | 39 tests, actual solver traces and explicit transition flags; 43-frame animation |
-| [Variance Compass](https://github.com/khalil-work/variance-compass) | Centered covariance sensitivity with row bootstrap | 88 tests, affine-invariance regression and analytic Ishigami comparisons; 44-frame animation |
-| [Channel Lattice](https://github.com/khalil-work/channel-lattice) | D2Q9 channel flow with exact wall placement and Guo forcing | 68 tests; independent Poiseuille benchmark; relative L2 error 2.09e-4; 62-frame animation |
-| [Droplet PINN Studio](https://github.com/khalil-work/droplet-pinn-studio) | Equal-budget hard/soft initial-condition PINNs for the normalized droplet ODE | 6 CPU tests; reproduced seed-0 profile; held-out maximum absolute error 7.72e-5; 40-frame animation |
-
-*(This index grows as additional original projects complete review — more
-are in progress.)*
-
-## 🤝 Contributions and bug reports
-
-The featured verified originals above ship reproduction commands, pinned
-dependencies, recorded result data, and CI — if one of them does not
-reproduce for you, please open an issue with the exact command, your
-runtime versions, and the observed vs. documented numbers; that is the
-fastest path to a fix. Useful reports with a minimal reproducer are always
-welcome.
-
-## 🏆 Trophy
+I build **verification-first scientific software**: computational fluid dynamics solvers,
+physics-informed machine learning studies, and classical numerical codes in which
+*every accuracy claim is measured* against an exact reference, an independent
+formulation, or a hand-computed case — with tests, raw data and stated limits.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Khalil-Work&theme=flat&no-frame=true&column=7&margin-w=12" alt="Profile trophies for Khalil-Work" width="100%">
+`Taylor–Green error 3.9e-16` · `measured order 2.00` · `Riccati gain 2.9e-15` · `tetra volume exact 1/6` · `Colebrook root ≤ 1e-12`
+
+<a href="https://khalil-work.github.io"><img alt="Open my academic homepage" src="https://img.shields.io/badge/academic-homepage-E8B04B?style=for-the-badge&logo=github&logoColor=0B1D33"></a>
+<a href="https://github.com/khalil-work/verified-scientific-computing"><img alt="Open the verified catalogue" src="https://img.shields.io/badge/catalogue-verified%20scientific%20computing-0B1D33?style=for-the-badge&logo=bookstack&logoColor=E8B04B"></a>
 
 </div>
-
-## 📊 Community stats
-
-<div align="center">
-
-<img src="https://github-profile-repo.vercel.app/?username=khalil-work&theme=flat&no-frame=true&column=6&margin-w=12" alt="Community-generated public GitHub statistics" width="100%">
-
-</div>
-
-<p align="center"><sub>Community-generated public GitHub statistics from the
-open-source <a href="https://github.com/ryo-ma/github-profile-trophy">github-profile-trophy</a>
-service — not official GitHub awards, engineering-quality ratings, or
-percentile ranks. Commit counts include the disclosed reconstructed calendar
-records described in those repositories.</sub></p>
 
 ---
 
-🔬 Links: [LinkedIn](https://www.linkedin.com/in/mohammed-khalil1/) ·
-[YouTube](https://www.youtube.com/@MohammedKHALIIL)
+### 🌟 Featured work — click a card to open the project
 
-Calendar note: the native 2024–2026 contribution graph includes [disclosed reconstructed date records](docs/CALENDAR_HISTORY_2024_2026.md).
+<div align="center">
+
+<a href="https://github.com/khalil-work/vortex-notebook"><img src="https://raw.githubusercontent.com/khalil-work/vortex-notebook/main/docs/banner.png" alt="Vortex Notebook — spectral Navier-Stokes solver" width="49%"></a>
+<a href="https://github.com/khalil-work/shockline-euler"><img src="https://raw.githubusercontent.com/khalil-work/shockline-euler/main/docs/banner.png" alt="Shockline — conservative Euler waves and Riemann benchmarks" width="49%"></a>
+<a href="https://github.com/khalil-work/channel-lattice"><img src="https://raw.githubusercontent.com/khalil-work/channel-lattice/main/docs/banner.gif" alt="Channel Lattice — D2Q9 lattice-Boltzmann channel flow" width="49%"></a>
+<a href="https://github.com/khalil-work/verified-scientific-computing"><img src="https://raw.githubusercontent.com/khalil-work/verified-scientific-computing/main/docs/banner.png" alt="Verified Scientific Computing — curated catalogue" width="49%"></a>
+
+</div>
+
+---
+
+### 🧱 All verified solvers — small cards, click to open
+
+<div align="center">
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| <a href="https://github.com/khalil-work/quadrature-workbench"><img src="https://raw.githubusercontent.com/khalil-work/quadrature-workbench/main/docs/banner.png" width="128" alt="Quadrature Workbench"></a> | <a href="https://github.com/khalil-work/droplet-journey"><img src="https://raw.githubusercontent.com/khalil-work/droplet-journey/main/docs/banner.gif" width="128" alt="Droplet Journey"></a> | <a href="https://github.com/khalil-work/droplet-pinn-studio"><img src="https://raw.githubusercontent.com/khalil-work/droplet-pinn-studio/main/docs/banner.png" width="128" alt="Droplet PINN Studio"></a> | <a href="https://github.com/khalil-work/thermal-streams"><img src="https://raw.githubusercontent.com/khalil-work/thermal-streams/main/docs/banner.png" width="128" alt="Thermal Streams"></a> | <a href="https://github.com/khalil-work/pipeflow-bench"><img src="https://raw.githubusercontent.com/khalil-work/pipeflow-bench/main/docs/banner.png" width="128" alt="Pipeflow Bench"></a> |
+| <a href="https://github.com/khalil-work/truss-equilibrium"><img src="https://raw.githubusercontent.com/khalil-work/truss-equilibrium/main/docs/banner.png" width="128" alt="Truss Equilibrium"></a> | <a href="https://github.com/khalil-work/modal-current"><img src="https://raw.githubusercontent.com/khalil-work/modal-current/main/docs/banner.png" width="128" alt="Modal Current"></a> | <a href="https://github.com/khalil-work/trajectory-fusion-c"><img src="https://raw.githubusercontent.com/khalil-work/trajectory-fusion-c/main/docs/banner.gif" width="128" alt="Trajectory Fusion"></a> | <a href="https://github.com/khalil-work/variance-compass"><img src="https://raw.githubusercontent.com/khalil-work/variance-compass/main/docs/banner.png" width="128" alt="Variance Compass"></a> | <a href="https://github.com/khalil-work/ignition-zero"><img src="https://raw.githubusercontent.com/khalil-work/ignition-zero/main/docs/banner.png" width="128" alt="Ignition Zero"></a> |
+| <a href="https://github.com/khalil-work/energy-flow-atlas"><img src="https://raw.githubusercontent.com/khalil-work/energy-flow-atlas/main/docs/banner.png" width="128" alt="Energy Flow Atlas"></a> | <a href="https://github.com/khalil-work/thermal-pathways"><img src="https://raw.githubusercontent.com/khalil-work/thermal-pathways/main/docs/banner.png" width="128" alt="Thermal Pathways"></a> | <a href="https://github.com/khalil-work/bracket-root-fortran"><img src="https://raw.githubusercontent.com/khalil-work/bracket-root-fortran/main/docs/banner.png" width="128" alt="Bracket Root"></a> | <a href="https://github.com/khalil-work/cooling-curve-inverse"><img src="https://raw.githubusercontent.com/khalil-work/cooling-curve-inverse/main/docs/banner.png" width="128" alt="Cooling Curve Inverse"></a> | <a href="https://github.com/khalil-work/triangle-mesh-audit"><img src="https://raw.githubusercontent.com/khalil-work/triangle-mesh-audit/main/docs/banner.png" width="128" alt="Triangle Mesh Audit"></a> |
+| <a href="https://github.com/khalil-work/heatwave-octave"><img src="https://raw.githubusercontent.com/khalil-work/heatwave-octave/main/docs/banner.png" width="128" alt="Heatwave"></a> | <a href="https://github.com/khalil-work/parallel-numerics-bench"><img src="https://raw.githubusercontent.com/khalil-work/parallel-numerics-bench/main/docs/banner.png" width="128" alt="Parallel Numerics Bench"></a> | <a href="https://github.com/khalil-work/vortex-notebook"><img src="https://raw.githubusercontent.com/khalil-work/vortex-notebook/main/docs/banner.png" width="128" alt="Vortex Notebook"></a> | <a href="https://github.com/khalil-work/shockline-euler"><img src="https://raw.githubusercontent.com/khalil-work/shockline-euler/main/docs/banner.png" width="128" alt="Shockline"></a> | <a href="https://github.com/khalil-work/channel-lattice"><img src="https://raw.githubusercontent.com/khalil-work/channel-lattice/main/docs/banner.gif" width="128" alt="Channel Lattice"></a> |
+
+</div>
+
+---
+
+### 💻 Languages & scientific stack
+
+<code><img title="Python" alt="python" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img title="C" alt="c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+<code><img title="C++" alt="cpp" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img title="Fortran" alt="fortran" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg"></code>
+<code><img title="NumPy" alt="numpy" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
+<code><img title="PyTorch" alt="pytorch" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
+<code><img title="Jupyter" alt="jupyter" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
+<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img title="Linux" alt="linux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+<code><img title="VS Code" alt="vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+
+### 🌊 CFD codes & professional tools
+
+<img alt="OpenFOAM" src="https://img.shields.io/badge/OpenFOAM-FF6600?style=for-the-badge&logo=openfoam&logoColor=white" height="24">
+<img alt="SU2" src="https://img.shields.io/badge/SU2-40648F?style=for-the-badge&logoColor=white" height="24">
+<img alt="Basilisk" src="https://img.shields.io/badge/Basilisk-3B7A57?style=for-the-badge&logoColor=white" height="24">
+<img alt="Palabos" src="https://img.shields.io/badge/Palabos-00796B?style=for-the-badge&logoColor=white" height="24">
+<img alt="ANSYS" src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=0B1D33" height="24">
+<img alt="CONVERGE CFD" src="https://img.shields.io/badge/CONVERGE_CFD-C8102E?style=for-the-badge&logoColor=white" height="24">
+<img alt="AVL FIRE" src="https://img.shields.io/badge/AVL_FIRE-005A9C?style=for-the-badge&logoColor=white" height="24">
+<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logoColor=white" height="24">
+<img alt="GNU Octave" src="https://img.shields.io/badge/GNU_Octave-0790C0?style=for-the-badge&logo=gnu&logoColor=white" height="24">
+<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="24">
+<img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-C8102E?style=for-the-badge&logoColor=white" height="24">
+<img alt="Siemens NX" src="https://img.shields.io/badge/Siemens_NX-009999?style=for-the-badge&logo=siemens&logoColor=white" height="24">
+<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="24">
+<img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="24">
+
+---
+
+### 💭 Quote of the day
+
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote of the day">
+</a>
+
+---
+
+### 📊 GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api?username=khalil-work&show_icons=true&hide_border=true&bg_color=0B1D33&title_color=E8B04B&icon_color=E8B04B&text_color=C9D7E8" alt="GitHub stats"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-work&layout=compact&hide_border=true&bg_color=0B1D33&title_color=E8B04B&text_color=C9D7E8&langs_count=8" alt="top languages"></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img height="160" src="https://streak-stats.demolab.com?user=khalil-work&hide_border=true&background=0B1D33&stroke=E8B04B&ring=E8B04B&fire=E8B04B&currDateLabel=C9D7E8&sideLabels=C9D7E8&dates=C9D7E8" alt="streak stats"></a>
+
+</div>
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalil-work&theme=flat&no-frame=true&column=7&margin-w=12" alt="profile trophies" width="100%"></a>
+</div>
+
+<div align="center"><img alt="profile visitors" src="https://profile-counter.glitch.me/khalil-work/count.svg"></div>
+
+<img alt="contribution snake animation" src="https://github.com/khalil-work/khalil-work/blob/output/github-contribution-grid-snake.svg">
+
+---
+
+### 💬 Ask me anything
+
+Questions about CFD, verification, PINNs or any project?
+Open a thread in the [Discussions](https://github.com/khalil-work/khalil-work/discussions) of this profile —
+happy to talk solvers, benchmarks and mountains.
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/back_to_top-E8B04B?logo=github&logoColor=0B1D33" alt="back to top"></a></p>
+
+<div align="center"><img width="100%" alt="footer" src="assets/footer.png"></div>
