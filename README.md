@@ -78,22 +78,28 @@ PhD student in mechanical engineering, exploring **CFD**, **numerical methods**,
 
 A little perspective, a little curiosity — beyond research.
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/quote-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/quote-light.svg" width="520" alt="Daily general inspiration with its author and source"></picture></p>
-
-<p align="center"><a href="https://zenquotes.io/">Inspirational quotes provided by ZenQuotes API</a></p>
-
-### 🧩 Trivia of the day
-
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/trivia-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/trivia-light.svg" width="520" alt="Today’s general-knowledge question and four answer choices"></picture></p>
-
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+<h3>💭 Quote of the day</h3>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/quote-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/quote-light.svg" width="100%" alt="Daily general inspiration with its author and source"></picture>
+<p><a href="https://zenquotes.io/">Inspirational quotes provided by ZenQuotes API</a></p>
+</td>
+<td width="50%" valign="top" align="center">
+<h3>🧩 Trivia of the day</h3>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/trivia-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/trivia-light.svg" width="100%" alt="Today’s general-knowledge question and four answer choices"></picture>
 <details>
 <summary>💡 Reveal today’s answer</summary>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/answer-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/answer-light.svg" width="520" alt="Answer to today’s trivia question"></picture></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/answer-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/answer-light.svg" width="100%" alt="Answer to today’s trivia question"></picture>
 
 </details>
+<p><a href="https://opentdb.com/">Open Trivia DB</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></p>
+</td>
+</tr>
+</table>
 
-<p align="center"><a href="https://opentdb.com/">Open Trivia DB</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> · <a href="https://github.com/Khalil-Work/khalil-work/blob/output/daily/README.md">Read today’s content as text</a></p>
+<p align="center"><a href="https://github.com/Khalil-Work/khalil-work/blob/output/daily/README.md">Read today’s quote and trivia as text ↗</a></p>
 
 <details>
 <summary>🕰️ When I push — recent public activity in UTC+8</summary>
