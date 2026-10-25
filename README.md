@@ -74,16 +74,48 @@ PhD student in mechanical engineering, exploring **CFD**, **numerical methods**,
 
 ---
 
-## 🤝 Activity & collaboration
+## 💭 Daily inspiration & curiosity
 
-For current work, follow the repository history and open technical discussions.
+A little perspective, a little curiosity — beyond research.
 
-[Profile activity](https://github.com/Khalil-Work?tab=overview) &nbsp; · &nbsp; [Pull requests](https://github.com/pulls?q=is%3Apr+author%3AKhalil-Work) &nbsp; · &nbsp; [Public repositories](https://github.com/Khalil-Work?tab=repositories) &nbsp; · &nbsp; [Ask a research question](https://github.com/Khalil-Work/khalil-work/discussions)
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/quote-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/quote-light.svg" width="520" alt="Daily general inspiration with its author and source"></picture></p>
+
+<p align="center"><a href="https://zenquotes.io/">Inspirational quotes provided by ZenQuotes API</a></p>
+
+### 🧩 Trivia of the day
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/trivia-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/trivia-light.svg" width="520" alt="Today’s general-knowledge question and four answer choices"></picture></p>
+
+<details>
+<summary>💡 Reveal today’s answer</summary>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/answer-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/answer-light.svg" width="520" alt="Answer to today’s trivia question"></picture></p>
+
+</details>
+
+<p align="center"><a href="https://opentdb.com/">Open Trivia DB</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> · <a href="https://github.com/Khalil-Work/khalil-work/blob/output/daily/README.md">Read today’s content as text</a></p>
+
+<details>
+<summary>🕰️ When I push — recent public activity in UTC+8</summary>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/timing-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/timing-light.svg" width="520" alt="Public push events grouped by local time: morning, afternoon, evening and night"></picture></p>
+
+This panel samples recent public **push events**, rather than commit counts or working hours. [Sample and refresh details](https://github.com/Khalil-Work/khalil-work/blob/output/daily/README.md#recent-public-push-timing).
+
+</details>
+
+---
+
+## 🐍 A playful contribution trail
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/github-contribution-grid-snake.svg" width="100%" alt="An animated purple snake travels across my existing GitHub contribution calendar"></picture></p>
+
+<p align="center"><a href="https://github.com/Platane/snk">Animation by snk</a> · <a href="docs/DAILY_PROFILE.md">Daily refresh & sources</a></p>
 
 <details>
 <summary>Contribution-calendar context</summary>
 
-The profile's contribution history includes disclosed reconstructed date records. See the [calendar provenance](docs/CALENDAR_HISTORY_2024_2026.md) for details.
+The profile's contribution history includes disclosed reconstructed date records. See the [calendar provenance](docs/CALENDAR_HISTORY_2024_2026.md) for details. The snake visualizes that existing calendar; it does not change the underlying heatmap.
 
 </details>
 

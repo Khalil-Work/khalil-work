@@ -1,25 +1,43 @@
-name: generate snake
+name: Refresh daily profile
 
 on:
   schedule:
-    - cron: "0 2 * * *"   # daily 02:00 UTC
+    - cron: '23 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-output
+  cancel-in-progress: false
+
 jobs:
-  build:
+  refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk/svg-only@v3
-        id: snake
+      - name: Check out profile tools
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
-          github_user_name: khalil-work
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+          persist-credentials: false
+      - name: Test daily content handling
+        run: python3 -m unittest discover -s tests -p 'test_daily_profile.py'
+      - name: Refresh inspiration, trivia and public push timing
+        run: python3 tools/refresh_daily_profile.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+      - name: Animate the existing contribution grid
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: Khalil-Work
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#7544b5
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bd9bff
+      - name: Publish generated assets to output branch
+        run: python3 tools/publish_profile_output.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
