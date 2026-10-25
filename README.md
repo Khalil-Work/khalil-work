@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<div align="center"><img width="100%" alt="welcome to my profile!" src="assets/header.png"></div>
+<div align="center"><img width="100%" alt="welcome to my profile!" src="assets/header.png?v=e60fd09ecf46"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=7E3ACE&size=28&center=true&vCenter=true&width=640&lines=I'm+KHALIL;PhD+Candidate+%E2%80%94+Mechanical+Engineer;CFD+Researcher+%7C+Numerical+Methods;Scientific+Machine+Learning;Aviation+Enthusiast+%E2%9C%88%EF%B8%8F;Lost+in+the+Mountains+%F0%9F%8F%94%EF%B8%8F" alt="KHALIL — PhD Candidate, Mechanical Engineer, CFD Researcher, Scientific Machine Learning, Aviation Enthusiast"></a>
