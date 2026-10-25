@@ -88,13 +88,6 @@ A little perspective, a little curiosity — beyond research.
 <td width="50%" valign="top" align="center">
 <h3>🧩 Trivia of the day</h3>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/trivia-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/trivia-light.svg" width="100%" alt="Today’s general-knowledge question and four answer choices"></picture>
-<details>
-<summary>💡 Reveal today’s answer</summary>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/answer-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/daily/answer-light.svg" width="100%" alt="Answer to today’s trivia question"></picture>
-
-</details>
-<p><a href="https://opentdb.com/">Open Trivia DB</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></p>
 </td>
 </tr>
 </table>
