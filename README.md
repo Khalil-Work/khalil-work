@@ -115,7 +115,7 @@ This panel samples recent public **push events**, rather than commit counts or w
 
 <p align="center"><img src="assets/beyond-research-quote.webp" width="360" alt="A hiker watching a fighter jet over the mountains. Aviation keeps me curious. Mountains help me reset."></p>
 
-<p align="center">Beyond research, I’m drawn to mountain trails and aviation.</p>
+<p align="center"><strong>Whenever I get the chance,</strong> I'm somewhere in the mountains.</p>
 
 <p align="center">🔗 <a href="https://www.linkedin.com/in/mohammed-khalil1/">LinkedIn</a> &nbsp; · &nbsp; ▶️ <a href="https://www.youtube.com/@MohammedKHALIIL">YouTube</a> &nbsp; · &nbsp; 🌐 <a href="https://khalil-work.github.io/">Portfolio website</a></p>
 
