@@ -2,57 +2,31 @@
 
 <img src="assets/welcome-matrix-e60fd09ecf46.png" width="100%" alt="Welcome to my profile — purple matrix artwork">
 
-# KHALIL
+<p align="center"><img src="assets/intro-typing.svg" width="100%" alt="I am KHALIL — PhD Student in Mechanical Engineering, CFD and scientific machine learning"></p>
 
-**Mechanical engineering · Computational fluid dynamics · Scientific machine learning**
+PhD student in mechanical engineering, exploring **CFD**, **numerical methods**, and **scientific machine learning**. I build computational studies with documented methods and verification.
 
-I'm a PhD candidate in mechanical engineering, drawn to the physics of flight, fluid motion, and the numerical methods that help us understand them. My work here explores CFD, droplet models, heat transfer, and reduced-order modelling through documented computational studies.
-
-[Academic homepage](https://khalil-work.github.io/) &nbsp; / &nbsp; [Verified computing catalogue](https://github.com/Khalil-Work/verified-scientific-computing) &nbsp; / &nbsp; [Research discussions](https://github.com/Khalil-Work/khalil-work/discussions)
+<p align="center">🌐 <a href="https://khalil-work.github.io/">Portfolio website</a> &nbsp; · &nbsp; 📚 <a href="https://github.com/Khalil-Work/verified-scientific-computing">Verified catalogue</a> &nbsp; · &nbsp; 💬 <a href="https://github.com/Khalil-Work/khalil-work/discussions">Discussions</a></p>
 
 ---
 
-## ✦ Selected work
+## ✨ Selected work
 
-Four entry points into my computational work. Each repository contains its methods, examples, results, and verification notes.
-
-### 01 &nbsp; Vortex Notebook
-
-<a href="https://github.com/Khalil-Work/vortex-notebook"><img src="assets/covers/vortex.gif" width="100%" alt="Vortex Notebook — KHALIL's spectral-flow project, illustrated with sculpted violet fluid ribbons"></a>
-
-**Periodic flow, explored in an executable notebook.** A two-dimensional spectral Navier–Stokes solver with Taylor–Green verification and nonlinear vortex studies.
-
-[Explore the notebook ↗](https://github.com/Khalil-Work/vortex-notebook) &nbsp; · &nbsp; [Methods & verification](https://github.com/Khalil-Work/vortex-notebook/blob/main/docs/verification.md) &nbsp; · &nbsp; [Still cover](assets/covers/vortex.webp)
-
-### 02 &nbsp; Shockline
-
-<a href="https://github.com/Khalil-Work/shockline-euler"><img src="assets/covers/shockline.gif" width="100%" alt="Shockline — KHALIL's one-dimensional Euler-wave project, illustrated with an aerodynamic form and violet wave sheets"></a>
-
-**Follow shocks and contact waves.** Compare first-order and MUSCL finite-volume solutions of the one-dimensional Euler equations against an exact Riemann reference.
-
-[Explore the solver ↗](https://github.com/Khalil-Work/shockline-euler) &nbsp; · &nbsp; [Methods & verification](https://github.com/Khalil-Work/shockline-euler/blob/main/docs/verification.md) &nbsp; · &nbsp; [Still cover](assets/covers/shockline.webp)
-
-### 03 &nbsp; Droplet Journey
-
-<a href="https://github.com/Khalil-Work/droplet-journey"><img src="assets/covers/droplet.gif" width="100%" alt="Droplet Journey — KHALIL's evaporation and heating project, illustrated with a glasslike water droplet and violet reflections"></a>
-
-**Explore the evolution of an evaporating droplet.** A zero-dimensional model of coupled diameter and temperature, with analytical benchmarks and a size-population study.
-
-[Explore the model ↗](https://github.com/Khalil-Work/droplet-journey) &nbsp; · &nbsp; [Methods & verification](https://github.com/Khalil-Work/droplet-journey/blob/main/docs/verification.md) &nbsp; · &nbsp; [Still cover](assets/covers/droplet.webp)
-
-### 04 &nbsp; Triangle Mesh Audit
-
-<a href="https://github.com/Khalil-Work/triangle-mesh-audit"><img src="assets/covers/mesh.gif" width="100%" alt="Triangle Mesh Audit — KHALIL's STL geometry project, illustrated with a curved precision lattice"></a>
-
-**Inspect geometry before simulation.** A C++17 STL inspector for triangle quality, area, and signed volume, checked with known-shape benchmarks.
-
-[Explore the inspector ↗](https://github.com/Khalil-Work/triangle-mesh-audit) &nbsp; · &nbsp; [Methods & verification](https://github.com/Khalil-Work/triangle-mesh-audit/blob/main/docs/verification.md) &nbsp; · &nbsp; [Still cover](assets/covers/mesh.webp)
-
-<sub>Custom illustrated project covers. Computed figures and benchmark evidence are linked in the repositories.</sub>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center"><a href="https://github.com/Khalil-Work/triangle-mesh-audit"><img src="assets/covers/mesh.gif" width="100%" alt="Triangle Mesh Audit — animated custom cover"></a><br><strong><a href="https://github.com/Khalil-Work/triangle-mesh-audit">Triangle Mesh Audit ↗</a></strong><br>STL geometry audit</td>
+<td width="50%" valign="top" align="center"><a href="https://github.com/Khalil-Work/vortex-notebook"><img src="assets/covers/vortex.gif" width="100%" alt="Vortex Notebook — animated custom cover"></a><br><strong><a href="https://github.com/Khalil-Work/vortex-notebook">Vortex Notebook ↗</a></strong><br>Spectral flow studies</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="https://github.com/Khalil-Work/shockline-euler"><img src="assets/covers/shockline.gif" width="100%" alt="Shockline — animated custom cover"></a><br><strong><a href="https://github.com/Khalil-Work/shockline-euler">Shockline ↗</a></strong><br>Euler wave benchmarks</td>
+<td width="50%" valign="top" align="center"><a href="https://github.com/Khalil-Work/droplet-journey"><img src="assets/covers/droplet.gif" width="100%" alt="Droplet Journey — animated custom cover"></a><br><strong><a href="https://github.com/Khalil-Work/droplet-journey">Droplet Journey ↗</a></strong><br>Evaporation &amp; heating</td>
+</tr>
+</table>
+<p align="center"><sub>Illustrated covers — click to open the code, methods and results.</sub> · <a href="docs/PROFILE_DESIGN.md">Still covers</a></p>
 
 ---
 
-## ↗ Project library
+## 📚 Project library
 
 ### Flow, combustion & heat transfer
 
@@ -68,30 +42,39 @@ Four entry points into my computational work. Each repository contains its metho
 
 ---
 
-## ⌘ Research toolkit
+## 🛠️ Research toolkit
 
-**CFD & meshing**  
-OpenFOAM · SU2 · Basilisk · Palabos · CONVERGE CFD · AVL FIRE ·
-ANSYS Fluent/CFX · STAR-CCM+ · COMSOL
+### 🌊 CFD & meshing
 
-**Scientific programming**  
-Python · C · C++ · Fortran · MATLAB · GNU Octave · Jupyter · LaTeX · Git · Linux
+<p><a href="https://www.openfoam.com/" title="OpenFOAM"><img src="assets/toolkit/chips/openfoam.svg" height="36" alt="OpenFOAM"></a> &nbsp; <a href="https://su2code.github.io/" title="SU2"><img src="assets/toolkit/chips/su2.svg" height="36" alt="SU2"></a> &nbsp; <a href="https://basilisk.fr/" title="Basilisk"><img src="assets/toolkit/chips/basilisk.svg" height="36" alt="Basilisk"></a> &nbsp; <a href="https://palabos.unige.ch/" title="Palabos"><img src="assets/toolkit/chips/palabos.svg" height="36" alt="Palabos"></a> &nbsp; <a href="https://convergecfd.com/" title="CONVERGE CFD"><img src="assets/toolkit/chips/converge-cfd.svg" height="36" alt="CONVERGE CFD"></a> &nbsp; <a href="https://www.avl.com/" title="AVL FIRE"><img src="assets/toolkit/chips/avl-fire.svg" height="36" alt="AVL FIRE"></a> &nbsp; <a href="https://www.ansys.com/products/fluids/ansys-fluent" title="ANSYS Fluent"><img src="assets/toolkit/chips/ansys-fluent.svg" height="36" alt="ANSYS Fluent"></a> &nbsp; <a href="https://www.ansys.com/products/fluids/ansys-cfx" title="ANSYS CFX"><img src="assets/toolkit/chips/ansys-cfx.svg" height="36" alt="ANSYS CFX"></a> &nbsp; <a href="https://www.sw.siemens.com/en-US/simcenter/fluids-thermal-simulation/star-ccm/" title="STAR-CCM+"><img src="assets/toolkit/chips/star-ccm.svg" height="36" alt="STAR-CCM+"></a> &nbsp; <a href="https://www.comsol.com/" title="COMSOL"><img src="assets/toolkit/chips/comsol.svg" height="36" alt="COMSOL"></a></p>
 
-**Geometry & visualization**  
-SolidWorks · Siemens NX · CATIA · AutoCAD · Fusion 360 ·
-ParaView · Tecplot 360 · EnSight · OriginPro · Matplotlib
+### 💻 Scientific programming
 
-<details>
-<summary>Experimental diagnostics & visual communication</summary>
+<p><a href="https://www.python.org/" title="Python"><img src="assets/toolkit/chips/python.svg" height="36" alt="Python"></a> &nbsp; <a href="https://en.cppreference.com/w/c" title="C"><img src="assets/toolkit/chips/c.svg" height="36" alt="C"></a> &nbsp; <a href="https://isocpp.org/" title="C++"><img src="assets/toolkit/chips/c-plus-plus.svg" height="36" alt="C++"></a> &nbsp; <a href="https://fortran-lang.org/" title="Fortran"><img src="assets/toolkit/chips/fortran.svg" height="36" alt="Fortran"></a> &nbsp; <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="assets/toolkit/chips/matlab.svg" height="36" alt="MATLAB"></a> &nbsp; <a href="https://octave.org/" title="GNU Octave"><img src="assets/toolkit/chips/gnu-octave.svg" height="36" alt="GNU Octave"></a> &nbsp; <a href="https://jupyter.org/" title="Jupyter"><img src="assets/toolkit/chips/jupyter.svg" height="36" alt="Jupyter"></a> &nbsp; <a href="https://www.latex-project.org/" title="LaTeX"><img src="assets/toolkit/chips/latex.svg" height="36" alt="LaTeX"></a></p>
 
-**Diagnostics:** PIV · PDA/PDPA · PDI · hot-wire CTA · Schlieren imaging  
-**Visual communication:** Photoshop · Illustrator
+### 📐 CAD & geometry
 
-</details>
+<p><a href="https://www.solidworks.com/" title="SolidWorks"><img src="assets/toolkit/chips/solidworks.svg" height="36" alt="SolidWorks"></a> &nbsp; <a href="https://www.sw.siemens.com/en-US/nx/" title="Siemens NX"><img src="assets/toolkit/chips/siemens-nx.svg" height="36" alt="Siemens NX"></a> &nbsp; <a href="https://www.autodesk.com/products/autocad/overview" title="AutoCAD"><img src="assets/toolkit/chips/autocad.svg" height="36" alt="AutoCAD"></a> &nbsp; <a href="https://www.autodesk.com/products/fusion-360/overview" title="Fusion 360"><img src="assets/toolkit/chips/fusion-360.svg" height="36" alt="Fusion 360"></a></p>
+
+### 📊 Post-processing & visualization
+
+<p><a href="https://www.paraview.org/" title="ParaView"><img src="assets/toolkit/chips/paraview.svg" height="36" alt="ParaView"></a> &nbsp; <a href="https://tecplot.com/products/tecplot-360/" title="Tecplot 360"><img src="assets/toolkit/chips/tecplot-360.svg" height="36" alt="Tecplot 360"></a> &nbsp; <a href="https://www.ansys.com/products/fluids/ansys-ensight" title="EnSight"><img src="assets/toolkit/chips/ensight.svg" height="36" alt="EnSight"></a> &nbsp; <a href="https://www.originlab.com/" title="OriginPro"><img src="assets/toolkit/chips/originpro.svg" height="36" alt="OriginPro"></a> &nbsp; <a href="https://matplotlib.org/" title="Matplotlib"><img src="assets/toolkit/chips/matplotlib.svg" height="36" alt="Matplotlib"></a></p>
+
+### 🧰 Verification & reproducibility
+
+<p><a href="https://git-scm.com/" title="Git"><img src="assets/toolkit/chips/git.svg" height="36" alt="Git"></a> &nbsp; <a href="https://www.kernel.org/" title="Linux"><img src="assets/toolkit/chips/linux.svg" height="36" alt="Linux"></a> &nbsp; <a href="https://github.com/features/actions" title="GitHub Actions"><img src="assets/toolkit/chips/github-actions.svg" height="36" alt="GitHub Actions"></a> &nbsp; <a href="https://docs.pytest.org/" title="pytest"><img src="assets/toolkit/chips/pytest.svg" height="36" alt="pytest"></a> &nbsp; <a href="https://cmake.org/" title="CMake"><img src="assets/toolkit/chips/cmake.svg" height="36" alt="CMake"></a></p>
+
+### 🔬 Experimental diagnostics
+
+<p>🔎 PIV &nbsp; · &nbsp; 💠 PDA/PDPA &nbsp; · &nbsp; 🔬 PDI &nbsp; · &nbsp; 🌡️ Hot-wire CTA &nbsp; · &nbsp; 💡 Schlieren imaging</p>
+
+### 🎨 Visual communication
+
+<p><a href="https://www.adobe.com/products/photoshop.html" title="Photoshop"><img src="assets/toolkit/chips/photoshop.svg" height="36" alt="Photoshop"></a> &nbsp; <a href="https://www.adobe.com/products/illustrator.html" title="Illustrator"><img src="assets/toolkit/chips/illustrator.svg" height="36" alt="Illustrator"></a></p>
 
 ---
 
-## ◇ Activity & collaboration
+## 🤝 Activity & collaboration
 
 For current work, follow the repository history and open technical discussions.
 
@@ -106,12 +89,16 @@ The profile's contribution history includes disclosed reconstructed date records
 
 ---
 
-## ⛰ Beyond research
+## ⛰️ Beyond research
 
-**Aviation keeps me curious. Mountains help me reset.**
+<p align="center"><img src="assets/beyond-research-quote.webp" width="360" alt="A hiker watching a fighter jet over the mountains. Aviation keeps me curious. Mountains help me reset."></p>
 
-When I'm not simulating flows, I'm somewhere in the mountains.
+<p align="center">When I'm not simulating flows, I'm somewhere in the mountains.</p>
 
-[Academic homepage](https://khalil-work.github.io/) · [LinkedIn](https://www.linkedin.com/in/mohammed-khalil1/) · [YouTube](https://www.youtube.com/@MohammedKHALIIL)
+<p align="center">🔗 <a href="https://www.linkedin.com/in/mohammed-khalil1/">LinkedIn</a> &nbsp; · &nbsp; ▶️ <a href="https://www.youtube.com/@MohammedKHALIIL">YouTube</a> &nbsp; · &nbsp; 🌐 <a href="https://khalil-work.github.io/">Portfolio website</a></p>
 
-<p align="right"><a href="#top">↑ Back to top</a></p>
+<p align="center"><img src="assets/thanks-typing.svg" width="70%" alt="Thanks for your visit!"></p>
+
+<p align="right"><a href="#top">⬆️ Back to top</a></p>
+
+<img src="assets/footer-wave.svg" width="100%" alt="">

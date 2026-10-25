@@ -1,0 +1,13 @@
+{
+  "source_sha256": "bc8fc2a93fa330617d3abc919d7bc2b0db127e878a85053ed232841bbd7e5124",
+  "output_sha256": "4d5c403da977ea33c03716181417fd02fa210a40fa75871892822329b3aced36",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "display_width": 360,
+  "display_height": 120,
+  "quote": "Aviation keeps me curious. Mountains help me reset.",
+  "artwork": "Hiker watching a fighter jet over mountain ridges",
+  "tool": "Built-in image generation; WebP encoding only after generation"
+}

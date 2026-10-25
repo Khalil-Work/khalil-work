@@ -15,3 +15,18 @@ Original source images and the numerical project result files remain separate. E
 The original welcome image is stored without modification as `assets/welcome-matrix-e60fd09ecf46.png`.
 
 See `assets/covers/animation-provenance.json` for image provenance and encoding checks.
+
+## Compact gallery and personal accents
+
+The four GIFs are arranged in two rows: Triangle Mesh Audit and Vortex Notebook, then Shockline and Droplet Journey. Each cover opens its repository. Short captions and visible project names accompany the artwork.
+
+The moving introduction and thank-you line are self-hosted animated SVGs generated with [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg). The original welcome banner remains unchanged. The smaller centered personal banner shows a hiker watching a fighter jet with the quote: “Aviation keeps me curious. Mountains help me reset.”
+
+## Still covers
+
+- [Triangle Mesh Audit](../assets/covers/mesh.webp)
+- [Vortex Notebook](../assets/covers/vortex.webp)
+- [Shockline](../assets/covers/shockline.webp)
+- [Droplet Journey](../assets/covers/droplet.webp)
+
+Toolkit icon sources and the distinction between project marks, corporate marks and generic symbols are recorded in [TOOLKIT_SOURCES.md](TOOLKIT_SOURCES.md).

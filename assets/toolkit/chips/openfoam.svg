@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="141" height="36" viewBox="0 0 141 36" role="img"><title>OpenFOAM</title><rect x=".5" y=".5" width="140" height="35" rx="7" fill="#172235" stroke="#36415B" /><svg width="28" height="28" viewBox="0 0 64 64" x="4" y="4"><rect x="0" y="0" width="64" height="64" rx="12" fill="#F3F0FA" /><svg x="7" y="7" width="50" height="50" viewBox="0 0 260.000000 260.000000" preserveAspectRatio="xMidYMid meet"><metadata>
+Created by potrace 1.11, written by Peter Selinger 2001-2013
+</metadata>
+<g transform="translate(0.000000,260.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
+<path d="M208 2198 c44 -84 121 -234 172 -333 51 -99 125 -243 165 -320 40 -77 114 -221 165 -320 102 -198 214 -415 325 -630 40 -77 112 -218 161 -312 49 -95 91 -173 94 -173 3 0 52 91 109 203 57 111 138 270 181 352 82 159 198 385 378 735 128 250 221 432 373 728 l110 212 -138 0 c-76 1 -596 3 -1156 6 l-1018 5 79 -153z m1978 -51 c3 -4 -831 -1677 -836 -1677 -3 0 -65 120 -137 268 -192 388 -694 1406 -699 1414 -4 6 1668 1 1672 -5z" />
+</g>
+</svg></svg><text x="43" y="23" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#DCE7F7">OpenFOAM</text></svg>

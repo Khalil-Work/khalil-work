@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns5="http://www.inkscape.org/namespaces/inkscape" xmlns:ns6="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="146" height="36" viewBox="0 0 146 36" role="img"><title>GNU Octave</title><rect x=".5" y=".5" width="145" height="35" rx="7" fill="#172235" stroke="#36415B" /><svg width="28" height="28" viewBox="0 0 64 64" x="4" y="4"><rect x="0" y="0" width="64" height="64" rx="12" fill="#F3F0FA" /><svg x="7" y="7" width="50" height="50" viewBox="0 0 283.28912 283.28833" preserveAspectRatio="xMidYMid meet"><metadata id="metadata2942">
+    <rdf:RDF>
+      <ns2:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </ns2:Work>
+    </rdf:RDF>
+  </metadata>
+  <ns4:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" ns5:pageopacity="0" ns5:pageshadow="2" ns5:window-width="640" ns5:window-height="483" id="namedview2940" showgrid="false" ns5:zoom="0.22425739" ns5:cx="138.6918" ns5:cy="147.82525" ns5:window-x="648" ns5:window-y="144" ns5:window-maximized="0" ns5:current-layer="svg2872" />
+  <defs id="defs2874">
+    <radialGradient cx="182.9837" cy="395.04871" r="148.95309" fx="182.9837" fy="395.04871" id="radialGradient3033" ns6:href="#linearGradient3755" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.22914334,-0.24901479,0.7643572,0.83064268,-272.85337,-159.69482)" />
+    <linearGradient id="linearGradient3755">
+      <stop id="stop3757" style="stop-color:#008cbe;stop-opacity:1" offset="0" />
+      <stop id="stop3759" style="stop-color:#b2ffff;stop-opacity:1" offset="1" />
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(-233.35544,-390.71802)">
+    <g transform="matrix(8.4519723,0,0,8.4519723,-278.45012,-403.82975)" id="g3025">
+      <path d="m 66.432103,97.488679 c -5.19584,5.646431 -3.93661,16.169031 2.81107,23.501871 6.74768,7.33285 16.42898,8.69955 21.62483,3.05312 5.19585,-5.64643 3.9402,-16.16946 -2.80749,-23.5023 -6.74768,-7.332861 -16.43256,-8.699131 -21.62841,-3.052691 z m 4.71149,2.34553 c 4.08256,-4.43659 11.589,-3.47152 16.76741,2.155961 5.17842,5.6275 6.06647,13.78491 1.98391,18.2215 -4.08256,4.43658 -11.59097,3.47369 -16.76939,-2.15381 -5.17842,-5.6275 -6.06449,-13.78704 -1.98193,-18.223651 z" id="path5874" style="fill:url(#radialGradient3033);fill-opacity:1;stroke:none" />
+      <rect width="4.349854" height="4.349854" rx="0.76958966" ry="0.76958966" x="85.381561" y="99.493881" id="rect5876" style="fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:#d45500;stroke-width:0.74403799;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect width="10.245436" height="10.245436" rx="1.8126545" ry="1.8126545" x="60.92659" y="105.2245" id="rect5878" style="fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:#d45500;stroke-width:0.74403799;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect width="6.1897531" height="6.1897531" rx="1.0951102" ry="1.0951102" x="87.404739" y="118.63705" id="rect5880" style="fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:#d45500;stroke-width:0.74403799;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg></svg><text x="43" y="23" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#DCE7F7">GNU Octave</text></svg>

@@ -1,0 +1,342 @@
+[
+  {
+    "label": "OpenFOAM",
+    "file": "assets/toolkit/chips/openfoam.svg",
+    "sha256": "8f4e7149e800716682b4d05655d545350e1ad5680a699726476309a4ef456b8f",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://www.openfoam.com/themes/bs4esi/favicons/safari-pinned-tab.svg",
+    "source_sha256": "a754cc8c50165c16216aae73a7b5c9f868faae93901241ca9850ebdadfa50a6c",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "SU2",
+    "file": "assets/toolkit/chips/su2.svg",
+    "sha256": "bfc96bff750c4f83b12a1ff32284c04d46655926f93f9853912165f302e59713",
+    "icon_kind": "Typeset name only",
+    "source_url": null,
+    "source_sha256": null,
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Basilisk",
+    "file": "assets/toolkit/chips/basilisk.svg",
+    "sha256": "37a5bfd43915a0a473137d7972f722403e6cfb093b7a0b30d9e9e7a7fe846433",
+    "icon_kind": "Original generic flow symbol",
+    "source_url": null,
+    "source_sha256": null,
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Palabos",
+    "file": "assets/toolkit/chips/palabos.svg",
+    "sha256": "59ce1be1a607b05a3a2309c387d633481a01df066b3b3a859d03884ac09e59e4",
+    "icon_kind": "Original generic flow symbol",
+    "source_url": null,
+    "source_sha256": null,
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "CONVERGE CFD",
+    "file": "assets/toolkit/chips/converge-cfd.svg",
+    "sha256": "5a12c57d467d9f96d504993291bd5d3c5c3fe42e9961c67a468689ade41d4370",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://convergecfd.com/converge/converge-logo-white.svg",
+    "source_sha256": "740eb16f64c81785478a4bb7af378fbaaf347d3085220b5f10044878d9477581",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": "Official emblem at the left of the supplied wordmark; wordmark outside viewport."
+  },
+  {
+    "label": "AVL FIRE",
+    "file": "assets/toolkit/chips/avl-fire.svg",
+    "sha256": "38a189827cd17e7dd8b9ed69c4a97b62d6d51703916e22094532d8bf8a0a4200",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://www.avl.com/themes/custom/volcano/src/favicon/safari-pinned-tab.svg",
+    "source_sha256": "4e59141926320b066e8f7045118b93d8b270fa9f5a45a63a8706a2a175fee64b",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "ANSYS Fluent",
+    "file": "assets/toolkit/chips/ansys-fluent.svg",
+    "sha256": "1585a44bd720df4cfc8d09a0b77c16f325cc4967b040f87375d533f7de73e847",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/90646e4bf7f3b89df6c37e65baf3e7bc759a517c/icons/ansys.svg",
+    "source_sha256": "2709712ba13e41c09d4d923709b5b626e886472ee2dd2a5b5f8f8fab35392c88",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "ANSYS CFX",
+    "file": "assets/toolkit/chips/ansys-cfx.svg",
+    "sha256": "25e3f86fd2dd6d21135020d1c32b7a1ae83f382a23efba05de51bdc5a4ef2eab",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/90646e4bf7f3b89df6c37e65baf3e7bc759a517c/icons/ansys.svg",
+    "source_sha256": "2709712ba13e41c09d4d923709b5b626e886472ee2dd2a5b5f8f8fab35392c88",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "STAR-CCM+",
+    "file": "assets/toolkit/chips/star-ccm.svg",
+    "sha256": "4abb8f48afd6019985bd7bcdd8c943317d2acf1bc9796ebe18eba46b4fdaeaaa",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://www.siemens.com/_static/favicon.svg",
+    "source_sha256": "f1f46ce572ca17d4b0a282da8d48350224ac06035271acfcfc67cc2b44be23f5",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "COMSOL",
+    "file": "assets/toolkit/chips/comsol.svg",
+    "sha256": "2d71956dcae5e9e4923d7fd0d87d2f05c4c59c3bc15f69a77144f8eebd08318b",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/90646e4bf7f3b89df6c37e65baf3e7bc759a517c/icons/comsol.svg",
+    "source_sha256": "fa79bfda4775bfd9d19b0f5ee187343560fd2cdbdd0665ed5505a23a60cd96b9",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Python",
+    "file": "assets/toolkit/chips/python.svg",
+    "sha256": "333dd2f7492d2fd60732c08a3bbffb9f0c8d9a9661419d124129d55343f175d8",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/python/python-original.svg",
+    "source_sha256": "71493b4a732f0532b3a03a7a95da3ee11a65766367c8303b901ffbe7bf91a3a2",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "C",
+    "file": "assets/toolkit/chips/c.svg",
+    "sha256": "8c1780731ed77756ab1539130d3738d179f65a3d6943b528cc892875ba6f83ce",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/c/c-original.svg",
+    "source_sha256": "8cce48da91084256f15653e02bfd7046ccb34489d030cb1aa34dee766daad6b7",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "C++",
+    "file": "assets/toolkit/chips/c-plus-plus.svg",
+    "sha256": "b99a9477288eadb9fadcf89939f3ea20d0cfd513736c5357ad76e8122ab6c0a9",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/cplusplus/cplusplus-original.svg",
+    "source_sha256": "7ff8253551235e3a6b002a7c2bd6e3190d85113a64fcb40f2254473caeb025d4",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Fortran",
+    "file": "assets/toolkit/chips/fortran.svg",
+    "sha256": "3bdb7c102a7c3b68d0d1b43ba437578a09d469ff3b08a1059012385ad1716f93",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/fortran/fortran-original.svg",
+    "source_sha256": "9d70fbcc51bb16ed0dda5d0cc59e976c0b8fbbd156c3551fb60020ff243172ea",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "MATLAB",
+    "file": "assets/toolkit/chips/matlab.svg",
+    "sha256": "7da45a42083a7b0b823085a0b429468dd1b2440a828e336e5249e343eff1c029",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/matlab/matlab-original.svg",
+    "source_sha256": "03f162fa2d349019b1fad920206b27246e5f5b48e6f7c15fb890fc3e8d3c82e0",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "GNU Octave",
+    "file": "assets/toolkit/chips/gnu-octave.svg",
+    "sha256": "f91dd56d70a81bdb5be8a546acc00cd40ad9943825683043219fb4172cd164b0",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://octave.org/img/octave-logo.svg",
+    "source_sha256": "57f121fdbc6a227c8341cb0d79b25391e7c400801402cb9ddaf1a63f45d6f879",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Jupyter",
+    "file": "assets/toolkit/chips/jupyter.svg",
+    "sha256": "57052581d5ec2769b18dba8b6a05c444b94f496ef13a73f81a57dfae94c69b9b",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/jupyter/jupyter-original.svg",
+    "source_sha256": "9b246fe756a3b600f68a7af1f17702033a1cdb6417da3a9f695337f584b5d545",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "LaTeX",
+    "file": "assets/toolkit/chips/latex.svg",
+    "sha256": "0059a16c64a1c77fffe289ad7ff111911e219c04a41cce59c8b8a8305f4a3225",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/latex/latex-original.svg",
+    "source_sha256": "95a355c5cfcde05317304ce9e770bf532fd45c203e9dc11e4b5a83c4e228ab6a",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "SolidWorks",
+    "file": "assets/toolkit/chips/solidworks.svg",
+    "sha256": "0889451a965203d18b7aea2de8788b8f1c31a5d110d88e3ed5d83622ccbc22af",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/90646e4bf7f3b89df6c37e65baf3e7bc759a517c/icons/dassaultsystemes.svg",
+    "source_sha256": "a91458ab5a398c7191c7994e028501edb2b2faffec447ad4cca8e661926dfb1e",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Siemens NX",
+    "file": "assets/toolkit/chips/siemens-nx.svg",
+    "sha256": "7f6f786eaa4386edb1ecb33b6b8486783b9ace3dfc5ec24c787a034100cd2d65",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://www.siemens.com/_static/favicon.svg",
+    "source_sha256": "f1f46ce572ca17d4b0a282da8d48350224ac06035271acfcfc67cc2b44be23f5",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "AutoCAD",
+    "file": "assets/toolkit/chips/autocad.svg",
+    "sha256": "403ab016ccbe574b16c1faeea680e3c289a3abb6315288f1a92095757f3b1d79",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/90646e4bf7f3b89df6c37e65baf3e7bc759a517c/icons/autocad.svg",
+    "source_sha256": "dee9d0d2f266609cefa58e0df43c9831e426a6d66df5cd17ecaa6e8c7d398b30",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Fusion 360",
+    "file": "assets/toolkit/chips/fusion-360.svg",
+    "sha256": "a0cc2300e336bff59fd72c813ab89e75bc8c5715208f5ad2f873705bb10aeb7f",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/fusion/fusion-original.svg",
+    "source_sha256": "2f443919ed818c7d6ba471a6019603d6f49ac84dda3a5aca36737e21727f0206",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "ParaView",
+    "file": "assets/toolkit/chips/paraview.svg",
+    "sha256": "bcf8673fc71f00cc46ee8ae09aa838b3ad9dc72c4c23c9c9694a16f8f4f72fb3",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://www.paraview.org/wp-content/uploads/2022/09/ParaView-Logo.svg",
+    "source_sha256": "14e86cb2e4091c19b511c5bc874de8c6e447c0804b91a17e76107f47fd2c0f0c",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": "Official three-stripe emblem; wordmark outside viewport."
+  },
+  {
+    "label": "Tecplot 360",
+    "file": "assets/toolkit/chips/tecplot-360.svg",
+    "sha256": "e97242f8d79530d5d749fa0723514c56796a4d8ecdd15ad012b892a99ddc02fc",
+    "icon_kind": "Typeset name only",
+    "source_url": null,
+    "source_sha256": null,
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "EnSight",
+    "file": "assets/toolkit/chips/ensight.svg",
+    "sha256": "bc40c9048c3a78511eaa90a58c3e55c1b121fbcd04b033021a34d18aa7a77495",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/90646e4bf7f3b89df6c37e65baf3e7bc759a517c/icons/ansys.svg",
+    "source_sha256": "2709712ba13e41c09d4d923709b5b626e886472ee2dd2a5b5f8f8fab35392c88",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "OriginPro",
+    "file": "assets/toolkit/chips/originpro.svg",
+    "sha256": "aa941dddd1611e2a310c76377618746d5056b67f8e26fac1ed6d49a188a9c4eb",
+    "icon_kind": "Typeset name only",
+    "source_url": null,
+    "source_sha256": null,
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Matplotlib",
+    "file": "assets/toolkit/chips/matplotlib.svg",
+    "sha256": "4a530d25f7db25c68caae27675556529d9f89527527531bd59ec980acf4049b3",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/matplotlib/matplotlib-original.svg",
+    "source_sha256": "c93696650c82f3c87b0c7228b501187feab0c10326249ffa1ea8b4c196e57f1b",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Git",
+    "file": "assets/toolkit/chips/git.svg",
+    "sha256": "b8b04233f0f3947d6fb95a619052b402114f6ace6eac72a1ce900c38f187855a",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/git/git-original.svg",
+    "source_sha256": "717a57ea97bf7e86de721dab3e68afac66332a10676d5c9abce4ae6a5a9c9983",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Linux",
+    "file": "assets/toolkit/chips/linux.svg",
+    "sha256": "00fed8a30ce8bf96e7f14ac8ca19f48e1fe74a20122d58719fd38523b64080d9",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/linux/linux-original.svg",
+    "source_sha256": "cf50ae4a263c6142963fad3561f7cb0311d0d41cc6189eadfb34f81a8a36acb0",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "GitHub Actions",
+    "file": "assets/toolkit/chips/github-actions.svg",
+    "sha256": "b708609619842e4b50c8bbdbf7d60c4943a68482f22765a8ba0e48212c6911c5",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/githubactions/githubactions-original.svg",
+    "source_sha256": "3a2524052ccf301d1a239f20cfef98d655e060c51cc29c5e94c867913899a47e",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "pytest",
+    "file": "assets/toolkit/chips/pytest.svg",
+    "sha256": "a777147ffa370169bd310306ebe77b2020f35800b889330b64f6403617ef1e5b",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/pytest/pytest-original.svg",
+    "source_sha256": "e3073e7f520866f93a40e76b633efc29715539150423178cdb2e33f7077e4be1",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "CMake",
+    "file": "assets/toolkit/chips/cmake.svg",
+    "sha256": "e20813a90eb32aebfddcde971591a793b11f0063dd7a1482397be4f7cd138592",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/cmake/cmake-original.svg",
+    "source_sha256": "c3a8a666d1ceaa0ab92e8d267c3e03e56a62a73c84a6722c92b23e79886f99b4",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Photoshop",
+    "file": "assets/toolkit/chips/photoshop.svg",
+    "sha256": "45525f8cf313d07a69b8a237a5ead471210e31abe3f1eada3f2d0e9f5db23b9a",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/photoshop/photoshop-original.svg",
+    "source_sha256": "4242c73530668189563cbf1ca1c1ceadc6886751c6df188c2a6425e9faa4acaf",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  },
+  {
+    "label": "Illustrator",
+    "file": "assets/toolkit/chips/illustrator.svg",
+    "sha256": "536690fd871cd21077b04252f56e83bfd9957f7d1c9b734dca40a40110f99ab3",
+    "icon_kind": "Project or vendor vector mark",
+    "source_url": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/illustrator/illustrator-original.svg",
+    "source_sha256": "09f05a7af7975a77c5077d86f27ca33746f59cd54d51e85bf374147760dbec75",
+    "processing": "Vector paths retained inside a consistent UI label; no raster images. Text-only label when no reliable brand vector exists.",
+    "viewbox_framing": null
+  }
+]

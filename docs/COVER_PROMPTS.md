@@ -25,3 +25,7 @@ Edit the existing project artwork into a customised research-project cover for K
 | Triangle Mesh Audit | STL geometry inspection | KHALIL |
 
 The source PNGs are retained in the local workspace. Published GIFs apply decorative motion while keeping wordmarks stationary, with WebP stills as an alternative.
+
+## Personal banner
+
+Built-in image generation/editing created the smaller personal banner. Final prompt: Keep the hiker on the left ridge, the recognizable distant fighter jet at upper right, mountain setting and navy/violet dawn light. Use a shallow panoramic composition. Replace the central heading with two centered white lines: “Aviation keeps me curious.” and “Mountains help me reset.” Keep the quote readable at a small displayed width, preserve the complete hiker and jet, and add no other text, frame or watermark. The original generated PNG is retained locally; the published WebP changes only its encoding.
