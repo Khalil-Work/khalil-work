@@ -116,15 +116,6 @@ This panel samples recent public **push events**, rather than commit counts or w
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/Khalil-Work/khalil-work/output/github-contribution-grid-snake.svg" width="100%" alt="An animated purple snake travels across my existing GitHub contribution calendar"></picture></p>
 
-<p align="center"><a href="https://github.com/Platane/snk">Animation by snk</a> · <a href="docs/DAILY_PROFILE.md">Daily refresh & sources</a></p>
-
-<details>
-<summary>Contribution-calendar context</summary>
-
-The profile's contribution history includes disclosed reconstructed date records. See the [calendar provenance](docs/CALENDAR_HISTORY_2024_2026.md) for details. The snake visualizes that existing calendar; it does not change the underlying heatmap.
-
-</details>
-
 ---
 
 ## ⛰️ Beyond research
