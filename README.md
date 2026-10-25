@@ -3,21 +3,23 @@
 <div align="center"><img width="100%" alt="welcome to my profile!" src="assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=E8B04B&size=28&center=true&vCenter=true&width=640&lines=I'm+KHALIL;PhD+Candidate+%E2%80%94+Mechanical+Engineer;CFD+Researcher+%7C+Numerical+Methods;Scientific+Machine+Learning;Aviation+Enthusiast+%E2%9C%88%EF%B8%8F;Lost+in+the+Mountains+%F0%9F%8F%94%EF%B8%8F" alt="KHALIL — PhD Candidate, Mechanical Engineer, CFD Researcher, Scientific Machine Learning, Aviation Enthusiast"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=7E3ACE&size=28&center=true&vCenter=true&width=640&lines=I'm+KHALIL;PhD+Candidate+%E2%80%94+Mechanical+Engineer;CFD+Researcher+%7C+Numerical+Methods;Scientific+Machine+Learning;Aviation+Enthusiast+%E2%9C%88%EF%B8%8F;Lost+in+the+Mountains+%F0%9F%8F%94%EF%B8%8F" alt="KHALIL — PhD Candidate, Mechanical Engineer, CFD Researcher, Scientific Machine Learning, Aviation Enthusiast"></a>
 </div>
 
 ---
 
 ### 🧭 About me
 
-PhD candidate in mechanical engineering with a love for **aviation** — I spend my days
-between simulations and flow physics. I write open-source CFD solvers, physics-informed
-machine learning studies, and classical numerical codes, and I hold every one of them to
-the same standard: **verified against an exact solution, an independent method, or a hand
-calculation — with tests, raw data, and honest limits — before it earns a place in my
-[verified catalogue](https://github.com/khalil-work/verified-scientific-computing).**
+PhD candidate in mechanical engineering with a love for **aviation** — I build
+open-source CFD solvers and scientific machine learning studies, all verified
+against exact references in my
+[verified catalogue](https://github.com/khalil-work/verified-scientific-computing).
 
-When I'm not simulating flows, I'm somewhere in the mountains.
+<div align="center">
+
+<img src="assets/mountains.gif" alt="When I'm not simulating flows, I'm somewhere in the mountains - shimmering night mountains" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -59,6 +61,12 @@ When I'm not simulating flows, I'm somewhere in the mountains.
 ---
 
 ### 🌊 CFD solvers & meshing
+
+<div align="center">
+
+<img src="assets/cfd_mosaic.png" alt="Giant CFD built from tool names" width="100%">
+
+</div>
 
 <img alt="OpenFOAM" src="https://img.shields.io/badge/OpenFOAM-FF6600?style=flat-square&logo=openfoam&logoColor=white">
 <img alt="SU2" src="https://img.shields.io/badge/SU2-40648F?style=flat-square&logoColor=white">
@@ -126,14 +134,20 @@ When I'm not simulating flows, I'm somewhere in the mountains.
 
 <div align="center">
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="profile-summary-card-output/0-profile-details.svg" alt="profile summary - totals for commits, issues and pull requests"></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile summary - totals for commits, issues and pull requests" width="72%"></a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="165" src="https://github-readme-stats.vercel.app/api?username=khalil-work&show_icons=true&hide_border=true&bg_color=0B1D33&title_color=E8B04B&icon_color=E8B04B&text_color=C9D7E8&include_all_commits=false" alt="GitHub stats"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-work&layout=compact&hide_border=true&bg_color=0B1D33&title_color=E8B04B&text_color=C9D7E8&langs_count=8" alt="top languages"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="165" src="https://github-readme-stats.vercel.app/api?username=khalil-work&show_icons=true&hide_border=true&bg_color=0B1D33&title_color=7E3ACE&icon_color=7E3ACE&text_color=C9D7E8&include_all_commits=false" alt="GitHub stats"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-work&donut=true&hide_border=true&bg_color=0B1D33&title_color=7E3ACE&text_color=C9D7E8&langs_count=8" alt="top languages"></a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=khalil-work&bg_color=0B1D33&color=7E3ACE&line=7E3ACE&point=ffd97a&area=true&area_color=2e6da4&hide_border=true" alt="activity graph" width="100%"></a>
 
 </div>
 
