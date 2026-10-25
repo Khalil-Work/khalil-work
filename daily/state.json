@@ -1,0 +1,36 @@
+{
+  "quote": {
+    "text": "The wiser you get, the less you care to look like a fool.",
+    "author": "Maxime Lagace",
+    "date": "2026-10-25",
+    "source": "https://zenquotes.io/"
+  },
+  "trivia": {
+    "question": "What is real haggis made of?",
+    "answer": "Sheep's Heart, Liver and Lungs",
+    "options": [
+      "Sheep's Liver, Kidneys and Eyes",
+      "Sheep's Heart, Kidneys and Lungs",
+      "Whole Sheep",
+      "Sheep's Heart, Liver and Lungs"
+    ],
+    "date": "2026-10-25",
+    "source": "https://opentdb.com/",
+    "license": "CC BY-SA 4.0"
+  },
+  "timing": {
+    "counts": {
+      "Morning": 13,
+      "Afternoon": 14,
+      "Evening": 15,
+      "Night": 33
+    },
+    "total": 75,
+    "timezone": "UTC+8",
+    "sample": "Up to 300 recent public events, within 30 days",
+    "earliest_push": "2026-10-20",
+    "updated": "2026-10-25T02:07:25.795769+00:00"
+  },
+  "generated_at": "2026-10-25T02:07:25.795769+00:00",
+  "warnings": []
+}
