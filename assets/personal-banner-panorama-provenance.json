@@ -1,0 +1,22 @@
+{
+  "source_sha256": "49ba867ea12e425cbfc87d3c0600ffbbd7ead383abeb651458c4a1352bbd3093",
+  "source_dimensions": [
+    2172,
+    724
+  ],
+  "display_width": 840,
+  "display_height": 120,
+  "display_ratio": 7,
+  "viewport": [
+    0,
+    193.308,
+    2172,
+    310.286
+  ],
+  "quote": "Aviation keeps me curious. Mountains help me reset.",
+  "quote_vector_font_size": 80,
+  "quote_display_font_px_at_840": 30.94,
+  "tool": "Built-in image generation for the scene edits; unchanged-pixel WebP encoding and SVG layout/vector typography",
+  "source_asset": "beyond-research-panorama-source.webp",
+  "original_asset_preserved": "beyond-research-quote.webp"
+}

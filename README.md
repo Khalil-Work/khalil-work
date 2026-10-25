@@ -113,7 +113,7 @@ This panel samples recent public **push events**, rather than commit counts or w
 
 ## ⛰️ Beyond research
 
-<p align="center"><img src="assets/beyond-research-quote.webp" width="360" alt="A hiker watching a fighter jet over the mountains. Aviation keeps me curious. Mountains help me reset."></p>
+<p align="center"><img src="assets/beyond-research-panorama.svg" width="100%" alt="A hiker watching a fighter jet over the mountains. Aviation keeps me curious. Mountains help me reset."></p>
 
 <p align="center"><strong>Whenever I get the chance,</strong> I'm somewhere in the mountains.</p>
 
