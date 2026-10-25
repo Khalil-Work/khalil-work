@@ -69,7 +69,7 @@ against exact references in my
 
 <div align="center">
 
-<img src="assets/cfd_mosaic.png" alt="Giant CFD built from tool names" width="100%">
+<img src="assets/cfd_mosaic.gif" alt="Giant CFD built from tool names" width="100%">
 
 </div>
 
