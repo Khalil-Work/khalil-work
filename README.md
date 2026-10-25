@@ -39,6 +39,11 @@ against exact references in my
 <a href="https://github.com/khalil-work/droplet-journey"><img src="https://raw.githubusercontent.com/khalil-work/droplet-journey/main/docs/banner.gif" alt="Droplet Journey — evaporation, heating and drag" width="49%"></a>
 <a href="https://github.com/khalil-work/triangle-mesh-audit"><img src="https://raw.githubusercontent.com/khalil-work/triangle-mesh-audit/main/docs/banner.gif" alt="Triangle Mesh Audit — STL geometry and quality checks" width="49%"></a>
 
+<a href="https://github.com/khalil-work/vortex-notebook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khalil-work&repo=vortex-notebook&bg_color=0B1D33&title_color=7E3ACE&text_color=C9D7E8&icon_color=7E3ACE&hide_border=true" alt="Vortex Notebook"></a>
+<a href="https://github.com/khalil-work/shockline-euler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khalil-work&repo=shockline-euler&bg_color=0B1D33&title_color=7E3ACE&text_color=C9D7E8&icon_color=7E3ACE&hide_border=true" alt="Shockline"></a>
+<a href="https://github.com/khalil-work/droplet-journey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khalil-work&repo=droplet-journey&bg_color=0B1D33&title_color=7E3ACE&text_color=C9D7E8&icon_color=7E3ACE&hide_border=true" alt="Droplet Journey"></a>
+<a href="https://github.com/khalil-work/triangle-mesh-audit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khalil-work&repo=triangle-mesh-audit&bg_color=0B1D33&title_color=7E3ACE&text_color=C9D7E8&icon_color=7E3ACE&hide_border=true" alt="Triangle Mesh Audit"></a>
+
 </div>
 
 ---
