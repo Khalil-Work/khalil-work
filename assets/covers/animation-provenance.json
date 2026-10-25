@@ -1,0 +1,138 @@
+{
+  "scope": "Approved designed artwork animated as editorial cinemagraphs. These are visual covers, not solver output or evidence of simulated physics.",
+  "encoder": {
+    "library": "Pillow",
+    "version": "11.0.0",
+    "format": "GIF89a",
+    "fixed_global_palette": true,
+    "dither": "none",
+    "disposal": 1,
+    "difference_frame_cropping": true,
+    "transparent_delta_optimization": true
+  },
+  "motion": {
+    "wordmark_guard": "left 36% frozen in every frame; smooth mask begins at 36%, reaches full at 47%",
+    "type": "sparse traveling soft reflections on existing bright material only; no texture or geometry warp",
+    "luminance_gate": "smooth transition from 45 to 150 /255",
+    "camera": "fixed",
+    "phase": "2\u03c0*k/N; endpoint not duplicated",
+    "max_displacement_pixels": 0,
+    "frames": 36,
+    "duration_ms": 100
+  },
+  "covers": {
+    "vortex-notebook": {
+      "source_file": "design-sources/covers/vortex-notebook.png",
+      "source_generation_file": "exec-70ce9f46-850a-4c3f-8b85-fb2dcc49e57c.png",
+      "source_sha256": "afd2a6cf6278f15dc9fdc2228464790d493a183e9fdd3c740091f3d0da3581ee",
+      "canvas": [
+        1200,
+        546
+      ],
+      "palette_colors": 256,
+      "motion_strength": 1.0,
+      "gif_file": "assets/covers/vortex.gif",
+      "validation": {
+        "frames": 36,
+        "distinct_decoded_frames": 36,
+        "durations_ms": [
+          100
+        ],
+        "loop": 0,
+        "left_36pct_max_pixel_change": 0,
+        "seam_mean_absolute_rgb_difference": 0.020852157102157102,
+        "median_adjacent_mean_absolute_rgb_difference": 0.027326007326007325,
+        "seam_to_median_adjacent_ratio": 0.7630883229073578,
+        "sha256": "db68ee50a78c91644d2c8b4903f65110a45155b177bf23bf957795109c8101e0",
+        "bytes": 565947
+      },
+      "still_png_sha256": "aeaeea8141cb00cc7a897b0245d22651a984a634d57fb594ec07e7f05611fb8c",
+      "still_webp_sha256": "812ca826ed630e2c879773d4adb2acd8ddae8dd8a4dd1cbd703f4a5c9350f0d9"
+    },
+    "shockline-euler": {
+      "source_file": "design-sources/covers/shockline-euler.png",
+      "source_generation_file": "exec-48bd3396-a1b3-4b77-b922-ce96bcffa70b.png",
+      "source_sha256": "29f1af83fccb8bf7e8175368df32bb2c703feff1f7f6a39827b65e3673d3a8cb",
+      "canvas": [
+        1200,
+        545
+      ],
+      "palette_colors": 256,
+      "motion_strength": 1.0,
+      "gif_file": "assets/covers/shockline.gif",
+      "validation": {
+        "frames": 36,
+        "distinct_decoded_frames": 36,
+        "durations_ms": [
+          100
+        ],
+        "loop": 0,
+        "left_36pct_max_pixel_change": 0,
+        "seam_mean_absolute_rgb_difference": 0.0074393476044852195,
+        "median_adjacent_mean_absolute_rgb_difference": 0.026756625891946995,
+        "seam_to_median_adjacent_ratio": 0.2780375834579448,
+        "sha256": "94531eac738a9dbed62297d60b9a4321e62ce5a65089cedcc27a30062c04d391",
+        "bytes": 411531
+      },
+      "still_png_sha256": "9c3a7fa4ede601557c4204c309b316079db296a4d55a1bf87b4aa5335f65e570",
+      "still_webp_sha256": "b5c94191089b951b9a79a9450352d55bd790773a12879af0df8eebf203bcf9a1"
+    },
+    "droplet-journey": {
+      "source_file": "design-sources/covers/droplet-journey.png",
+      "source_generation_file": "exec-24458299-4c2c-4af4-b861-32fe6d5519f7.png",
+      "source_sha256": "a7149359439fbaa5333a75a2bb1d2cda9c98879954f07662d7d7163916d11592",
+      "canvas": [
+        1200,
+        545
+      ],
+      "palette_colors": 256,
+      "motion_strength": 1.0,
+      "gif_file": "assets/covers/droplet.gif",
+      "validation": {
+        "frames": 36,
+        "distinct_decoded_frames": 36,
+        "durations_ms": [
+          100
+        ],
+        "loop": 0,
+        "left_36pct_max_pixel_change": 0,
+        "seam_mean_absolute_rgb_difference": 0.010016819571865444,
+        "median_adjacent_mean_absolute_rgb_difference": 0.011409021406727829,
+        "seam_to_median_adjacent_ratio": 0.8779735978020505,
+        "sha256": "d123f059649f88d0227bcd925cb225cd161207f290c416d7ab39a1c93013153a",
+        "bytes": 394528
+      },
+      "still_png_sha256": "c9fae9520c4490ce75fc60965ecbb9b96094f19833bf3a2c8a986da5869503f7",
+      "still_webp_sha256": "1e72e566bcf60e5cbe7420cb9405b47bc3c4a4a6ae7eece6ae2f2158df7f44b7"
+    },
+    "triangle-mesh-audit": {
+      "source_file": "design-sources/covers/triangle-mesh-audit.png",
+      "source_generation_file": "exec-21764b24-8a53-4d5d-bf33-157291b55403.png",
+      "source_sha256": "006a432dd538d89febe9afe51a8f1c8bcddf92290e7ea07b8a9bfc42aeb9791d",
+      "canvas": [
+        1200,
+        546
+      ],
+      "palette_colors": 256,
+      "motion_strength": 1.0,
+      "gif_file": "assets/covers/mesh.gif",
+      "validation": {
+        "frames": 36,
+        "distinct_decoded_frames": 36,
+        "durations_ms": [
+          100
+        ],
+        "loop": 0,
+        "left_36pct_max_pixel_change": 0,
+        "seam_mean_absolute_rgb_difference": 0.026292226292226294,
+        "median_adjacent_mean_absolute_rgb_difference": 0.031058709808709808,
+        "seam_to_median_adjacent_ratio": 0.8465331127454996,
+        "sha256": "7bb4bd2d5b385e279d79cb6436830f6ae4a8448b0139765b555f6baed6240490",
+        "bytes": 529863
+      },
+      "still_png_sha256": "6c1160ba17b2012d5e2deaf4b06c54e433d9df1d83787d035c2016460327a6d5",
+      "still_webp_sha256": "7eea088b62defba661d1ab8d488064f58a7fdb8781e1a8bc0fec50de35f6144c"
+    }
+  },
+  "total_gif_bytes": 1901869
+}
