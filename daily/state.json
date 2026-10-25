@@ -20,17 +20,17 @@
   },
   "timing": {
     "counts": {
-      "Morning": 13,
+      "Morning": 14,
       "Afternoon": 14,
       "Evening": 15,
       "Night": 33
     },
-    "total": 75,
+    "total": 76,
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-10-25T02:07:25.795769+00:00"
+    "updated": "2026-10-25T02:09:46.806393+00:00"
   },
-  "generated_at": "2026-10-25T02:07:25.795769+00:00",
+  "generated_at": "2026-10-25T02:09:46.806393+00:00",
   "warnings": []
 }

@@ -31,11 +31,11 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 
 | Time | Public pushes |
 | --- | ---: |
-| Morning | 13 |
+| Morning | 14 |
 | Afternoon | 14 |
 | Evening | 15 |
 | Night | 33 |
 
-Timing sample last refreshed: 2026-10-25T02:07:25.795769+00:00.
+Timing sample last refreshed: 2026-10-25T02:09:46.806393+00:00.
 
-Last refresh attempt: 2026-10-25T02:07:25.795769+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-10-25T02:09:46.806393+00:00. If a provider is unavailable, its previous content and original date remain visible.
