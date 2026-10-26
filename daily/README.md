@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-10-25
+## Daily inspiration · 2026-10-26
 
-> The wiser you get, the less you care to look like a fool.
+> Loving thoughts and actions are clearly beneficial for our physical and mental health.
 
-— **Maxime Lagace**
+— **Dalai Lama**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-10-25
+## General-knowledge trivia · 2026-10-26
 
-What is real haggis made of?
+What is the average life span of a garden ant?
 
-- **A.** Sheep's Liver, Kidneys and Eyes
-- **B.** Sheep's Heart, Kidneys and Lungs
-- **C.** Whole Sheep
-- **D.** Sheep's Heart, Liver and Lungs
+- **A.** 1 week
+- **B.** 3 years
+- **C.** 24 hours
+- **D.** 15 years
 
 <details><summary>Reveal the answer</summary>
 
-**Sheep's Heart, Liver and Lungs**
+**15 years**
 
 </details>
 
@@ -31,11 +31,11 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 
 | Time | Public pushes |
 | --- | ---: |
-| Morning | 14 |
+| Morning | 37 |
 | Afternoon | 14 |
 | Evening | 15 |
-| Night | 33 |
+| Night | 25 |
 
-Timing sample last refreshed: 2026-10-25T02:09:46.806393+00:00.
+Timing sample last refreshed: 2026-10-26T04:58:30.462613+00:00.
 
-Last refresh attempt: 2026-10-25T02:09:46.806393+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-10-26T04:58:30.462613+00:00. If a provider is unavailable, its previous content and original date remain visible.
