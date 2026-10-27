@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-10-26
+## Daily inspiration · 2026-10-27
 
-> Loving thoughts and actions are clearly beneficial for our physical and mental health.
+> Still your waters.
 
-— **Dalai Lama**
+— **Josh Waitzkin**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-10-26
+## General-knowledge trivia · 2026-10-27
 
-What is the average life span of a garden ant?
+What is the shape of the toy invented by Hungarian professor Ernő Rubik?
 
-- **A.** 1 week
-- **B.** 3 years
-- **C.** 24 hours
-- **D.** 15 years
+- **A.** Cylinder
+- **B.** Pyramid
+- **C.** Sphere
+- **D.** Cube
 
 <details><summary>Reveal the answer</summary>
 
-**15 years**
+**Cube**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-10-26T04:58:30.462613+00:00.
+Timing sample last refreshed: 2026-10-27T05:16:14.353519+00:00.
 
-Last refresh attempt: 2026-10-26T04:58:30.462613+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-10-27T05:16:14.353519+00:00. If a provider is unavailable, its previous content and original date remain visible.
