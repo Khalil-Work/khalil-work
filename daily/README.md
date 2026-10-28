@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-10-27
+## Daily inspiration · 2026-10-28
 
-> Still your waters.
+> What we dwell on is who we become.
 
-— **Josh Waitzkin**
+— **Oprah Winfrey**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-10-27
+## General-knowledge trivia · 2026-10-28
 
-What is the shape of the toy invented by Hungarian professor Ernő Rubik?
+Which slogan did the fast food company, McDonald's, use before their "I'm Lovin' It" slogan?
 
-- **A.** Cylinder
-- **B.** Pyramid
-- **C.** Sphere
-- **D.** Cube
+- **A.** Have It Your Way
+- **B.** Making People Happy Through Food
+- **C.** Why Pay More!?
+- **D.** We Love to See You Smile
 
 <details><summary>Reveal the answer</summary>
 
-**Cube**
+**We Love to See You Smile**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-10-27T05:16:14.353519+00:00.
+Timing sample last refreshed: 2026-10-28T05:55:25.978301+00:00.
 
-Last refresh attempt: 2026-10-27T05:16:14.353519+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-10-28T05:55:25.978301+00:00. If a provider is unavailable, its previous content and original date remain visible.
