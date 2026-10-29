@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "What we dwell on is who we become.",
-    "author": "Oprah Winfrey",
-    "date": "2026-10-28",
+    "text": "The more reasons you have for achieving your goal, the more determined you will become.",
+    "author": "Brian Tracy",
+    "date": "2026-10-29",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "Which slogan did the fast food company, McDonald's, use before their \"I'm Lovin' It\" slogan?",
-    "answer": "We Love to See You Smile",
+    "question": "What name represents the letter \"M\" in the NATO phonetic alphabet?",
+    "answer": "Mike",
     "options": [
-      "Have It Your Way",
-      "Making People Happy Through Food",
-      "Why Pay More!?",
-      "We Love to See You Smile"
+      "Mike",
+      "Matthew",
+      "Mark",
+      "Max"
     ],
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-10-28T05:55:25.978301+00:00"
+    "updated": "2026-10-29T05:58:54.302908+00:00"
   },
-  "generated_at": "2026-10-28T05:55:25.978301+00:00",
+  "generated_at": "2026-10-29T05:58:54.302908+00:00",
   "warnings": []
 }

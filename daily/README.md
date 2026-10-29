@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-10-28
+## Daily inspiration · 2026-10-29
 
-> What we dwell on is who we become.
+> The more reasons you have for achieving your goal, the more determined you will become.
 
-— **Oprah Winfrey**
+— **Brian Tracy**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-10-28
+## General-knowledge trivia · 2026-10-29
 
-Which slogan did the fast food company, McDonald's, use before their "I'm Lovin' It" slogan?
+What name represents the letter "M" in the NATO phonetic alphabet?
 
-- **A.** Have It Your Way
-- **B.** Making People Happy Through Food
-- **C.** Why Pay More!?
-- **D.** We Love to See You Smile
+- **A.** Mike
+- **B.** Matthew
+- **C.** Mark
+- **D.** Max
 
 <details><summary>Reveal the answer</summary>
 
-**We Love to See You Smile**
+**Mike**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-10-28T05:55:25.978301+00:00.
+Timing sample last refreshed: 2026-10-29T05:58:54.302908+00:00.
 
-Last refresh attempt: 2026-10-28T05:55:25.978301+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-10-29T05:58:54.302908+00:00. If a provider is unavailable, its previous content and original date remain visible.
