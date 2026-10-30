@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-10-29
+## Daily inspiration · 2026-10-30
 
-> The more reasons you have for achieving your goal, the more determined you will become.
+> Distant water does not put out a nearby fire.
 
-— **Brian Tracy**
+— **Chinese Proverb**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-10-29
+## General-knowledge trivia · 2026-10-30
 
-What name represents the letter "M" in the NATO phonetic alphabet?
+Which of these companies does NOT manufacture automobiles?
 
-- **A.** Mike
-- **B.** Matthew
-- **C.** Mark
-- **D.** Max
+- **A.** GMC
+- **B.** Ducati
+- **C.** Nissan
+- **D.** Fiat
 
 <details><summary>Reveal the answer</summary>
 
-**Mike**
+**Ducati**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-10-29T05:58:54.302908+00:00.
+Timing sample last refreshed: 2026-10-30T06:00:10.253922+00:00.
 
-Last refresh attempt: 2026-10-29T05:58:54.302908+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-10-30T06:00:10.253922+00:00. If a provider is unavailable, its previous content and original date remain visible.

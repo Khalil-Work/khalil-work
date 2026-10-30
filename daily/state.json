@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "The more reasons you have for achieving your goal, the more determined you will become.",
-    "author": "Brian Tracy",
-    "date": "2026-10-29",
+    "text": "Distant water does not put out a nearby fire.",
+    "author": "Chinese Proverb",
+    "date": "2026-10-30",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "What name represents the letter \"M\" in the NATO phonetic alphabet?",
-    "answer": "Mike",
+    "question": "Which of these companies does NOT manufacture automobiles?",
+    "answer": "Ducati",
     "options": [
-      "Mike",
-      "Matthew",
-      "Mark",
-      "Max"
+      "GMC",
+      "Ducati",
+      "Nissan",
+      "Fiat"
     ],
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-10-29T05:58:54.302908+00:00"
+    "updated": "2026-10-30T06:00:10.253922+00:00"
   },
-  "generated_at": "2026-10-29T05:58:54.302908+00:00",
+  "generated_at": "2026-10-30T06:00:10.253922+00:00",
   "warnings": []
 }
