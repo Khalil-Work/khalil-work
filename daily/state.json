@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "Distant water does not put out a nearby fire.",
-    "author": "Chinese Proverb",
-    "date": "2026-10-30",
+    "text": "When you believe in a thing, believe in it all the way, implicitly and unquestionable.",
+    "author": "Walt Disney",
+    "date": "2026-10-31",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "Which of these companies does NOT manufacture automobiles?",
-    "answer": "Ducati",
+    "question": "In the fictional SCP universe what “Object Class” is given to SCP’s that cannot be contained.",
+    "answer": "Apollyon",
     "options": [
-      "GMC",
-      "Ducati",
-      "Nissan",
-      "Fiat"
+      "Apollyon",
+      "Esoteric/Narrative Classes",
+      "Thaumiel",
+      "Keter-Thaumiel"
     ],
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-10-30T06:00:10.253922+00:00"
+    "updated": "2026-10-31T05:56:10.768326+00:00"
   },
-  "generated_at": "2026-10-30T06:00:10.253922+00:00",
+  "generated_at": "2026-10-31T05:56:10.768326+00:00",
   "warnings": []
 }

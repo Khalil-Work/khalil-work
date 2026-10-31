@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-10-30
+## Daily inspiration · 2026-10-31
 
-> Distant water does not put out a nearby fire.
+> When you believe in a thing, believe in it all the way, implicitly and unquestionable.
 
-— **Chinese Proverb**
+— **Walt Disney**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-10-30
+## General-knowledge trivia · 2026-10-31
 
-Which of these companies does NOT manufacture automobiles?
+In the fictional SCP universe what “Object Class” is given to SCP’s that cannot be contained.
 
-- **A.** GMC
-- **B.** Ducati
-- **C.** Nissan
-- **D.** Fiat
+- **A.** Apollyon
+- **B.** Esoteric/Narrative Classes
+- **C.** Thaumiel
+- **D.** Keter-Thaumiel
 
 <details><summary>Reveal the answer</summary>
 
-**Ducati**
+**Apollyon**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-10-30T06:00:10.253922+00:00.
+Timing sample last refreshed: 2026-10-31T05:56:10.768326+00:00.
 
-Last refresh attempt: 2026-10-30T06:00:10.253922+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-10-31T05:56:10.768326+00:00. If a provider is unavailable, its previous content and original date remain visible.
