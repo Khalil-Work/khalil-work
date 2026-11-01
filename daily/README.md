@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-10-31
+## Daily inspiration · 2026-11-01
 
-> When you believe in a thing, believe in it all the way, implicitly and unquestionable.
+> When something comes from within, when it is a part of you, you have no choice but to live it, to express it.
 
-— **Walt Disney**
+— **Kamal Ravikant**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-10-31
+## General-knowledge trivia · 2026-11-01
 
-In the fictional SCP universe what “Object Class” is given to SCP’s that cannot be contained.
+What is the most commonly used noun in the English language?
 
-- **A.** Apollyon
-- **B.** Esoteric/Narrative Classes
-- **C.** Thaumiel
-- **D.** Keter-Thaumiel
+- **A.** Home
+- **B.** Water
+- **C.** Time
+- **D.** Man
 
 <details><summary>Reveal the answer</summary>
 
-**Apollyon**
+**Time**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-10-31T05:56:10.768326+00:00.
+Timing sample last refreshed: 2026-11-01T06:23:42.182345+00:00.
 
-Last refresh attempt: 2026-10-31T05:56:10.768326+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-01T06:23:42.182345+00:00. If a provider is unavailable, its previous content and original date remain visible.
