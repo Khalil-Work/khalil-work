@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "When something comes from within, when it is a part of you, you have no choice but to live it, to express it.",
-    "author": "Kamal Ravikant",
-    "date": "2026-11-01",
+    "text": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
+    "author": "Dalai Lama",
+    "date": "2026-11-02",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "What is the most commonly used noun in the English language?",
-    "answer": "Time",
+    "question": "In blood typing, the (+) and (-) marker after an A, B, AB, or O is called Rh factor. Which of the following is the source of its discovery?",
+    "answer": "Rhesus Monkeys",
     "options": [
-      "Home",
-      "Water",
-      "Time",
-      "Man"
+      "Red-Haired People",
+      "Rhesus Monkeys",
+      "Rhizomes",
+      "Rheumatism Patients"
     ],
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-01T06:23:42.182345+00:00"
+    "updated": "2026-11-02T06:24:22.359639+00:00"
   },
-  "generated_at": "2026-11-01T06:23:42.182345+00:00",
+  "generated_at": "2026-11-02T06:24:22.359639+00:00",
   "warnings": []
 }
