@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-02
+## Daily inspiration · 2026-11-03
 
-> If you want others to be happy, practice compassion. If you want to be happy, practice compassion.
+> When the time is gone, you can never get it back.
 
-— **Dalai Lama**
+— **Stephen King**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-02
+## General-knowledge trivia · 2026-11-03
 
-In blood typing, the (+) and (-) marker after an A, B, AB, or O is called Rh factor. Which of the following is the source of its discovery?
+What is Cynophobia the fear of?
 
-- **A.** Red-Haired People
-- **B.** Rhesus Monkeys
-- **C.** Rhizomes
-- **D.** Rheumatism Patients
+- **A.** Germs
+- **B.** Dogs
+- **C.** Birds
+- **D.** Flying
 
 <details><summary>Reveal the answer</summary>
 
-**Rhesus Monkeys**
+**Dogs**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-02T06:24:22.359639+00:00.
+Timing sample last refreshed: 2026-11-03T06:58:24.176066+00:00.
 
-Last refresh attempt: 2026-11-02T06:24:22.359639+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-03T06:58:24.176066+00:00. If a provider is unavailable, its previous content and original date remain visible.

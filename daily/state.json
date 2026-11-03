@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
-    "author": "Dalai Lama",
-    "date": "2026-11-02",
+    "text": "When the time is gone, you can never get it back.",
+    "author": "Stephen King",
+    "date": "2026-11-03",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "In blood typing, the (+) and (-) marker after an A, B, AB, or O is called Rh factor. Which of the following is the source of its discovery?",
-    "answer": "Rhesus Monkeys",
+    "question": "What is Cynophobia the fear of?",
+    "answer": "Dogs",
     "options": [
-      "Red-Haired People",
-      "Rhesus Monkeys",
-      "Rhizomes",
-      "Rheumatism Patients"
+      "Germs",
+      "Dogs",
+      "Birds",
+      "Flying"
     ],
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-02T06:24:22.359639+00:00"
+    "updated": "2026-11-03T06:58:24.176066+00:00"
   },
-  "generated_at": "2026-11-02T06:24:22.359639+00:00",
+  "generated_at": "2026-11-03T06:58:24.176066+00:00",
   "warnings": []
 }
