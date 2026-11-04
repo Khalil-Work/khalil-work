@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-03
+## Daily inspiration · 2026-11-04
 
-> When the time is gone, you can never get it back.
+> What the eye doesn't see and the mind doesn't know, doesn't exist.
 
-— **Stephen King**
+— **D. H. Lawrence**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-03
+## General-knowledge trivia · 2026-11-04
 
-What is Cynophobia the fear of?
+In a standard Gregorian calendar, how many months begin with the letter 'J'?
 
-- **A.** Germs
-- **B.** Dogs
-- **C.** Birds
-- **D.** Flying
+- **A.** Three
+- **B.** Four
+- **C.** Five
+- **D.** Two
 
 <details><summary>Reveal the answer</summary>
 
-**Dogs**
+**Three**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-03T06:58:24.176066+00:00.
+Timing sample last refreshed: 2026-11-04T06:40:33.737262+00:00.
 
-Last refresh attempt: 2026-11-03T06:58:24.176066+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-04T06:40:33.737262+00:00. If a provider is unavailable, its previous content and original date remain visible.

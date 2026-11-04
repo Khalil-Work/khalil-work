@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "When the time is gone, you can never get it back.",
-    "author": "Stephen King",
-    "date": "2026-11-03",
+    "text": "What the eye doesn't see and the mind doesn't know, doesn't exist.",
+    "author": "D. H. Lawrence",
+    "date": "2026-11-04",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "What is Cynophobia the fear of?",
-    "answer": "Dogs",
+    "question": "In a standard Gregorian calendar, how many months begin with the letter 'J'?",
+    "answer": "Three",
     "options": [
-      "Germs",
-      "Dogs",
-      "Birds",
-      "Flying"
+      "Three",
+      "Four",
+      "Five",
+      "Two"
     ],
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-03T06:58:24.176066+00:00"
+    "updated": "2026-11-04T06:40:33.737262+00:00"
   },
-  "generated_at": "2026-11-03T06:58:24.176066+00:00",
+  "generated_at": "2026-11-04T06:40:33.737262+00:00",
   "warnings": []
 }
