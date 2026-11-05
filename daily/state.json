@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "What the eye doesn't see and the mind doesn't know, doesn't exist.",
-    "author": "D. H. Lawrence",
-    "date": "2026-11-04",
+    "text": "Debt is the slavery of the free.",
+    "author": "Publilius Syrus",
+    "date": "2026-11-05",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "In a standard Gregorian calendar, how many months begin with the letter 'J'?",
-    "answer": "Three",
+    "question": "What is the name of the antagonist group in Danganronpa Another Episode: Ultra Despair Girls?",
+    "answer": "Warriors of Hope",
     "options": [
-      "Three",
-      "Four",
-      "Five",
-      "Two"
+      "Warriors of Hope",
+      "The Monokubs",
+      "Warriors of Despair",
+      "The Ultimate Despair"
     ],
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-04T06:40:33.737262+00:00"
+    "updated": "2026-11-05T06:59:35.047892+00:00"
   },
-  "generated_at": "2026-11-04T06:40:33.737262+00:00",
+  "generated_at": "2026-11-05T06:59:35.047892+00:00",
   "warnings": []
 }

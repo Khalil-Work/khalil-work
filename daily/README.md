@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-04
+## Daily inspiration · 2026-11-05
 
-> What the eye doesn't see and the mind doesn't know, doesn't exist.
+> Debt is the slavery of the free.
 
-— **D. H. Lawrence**
+— **Publilius Syrus**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-04
+## General-knowledge trivia · 2026-11-05
 
-In a standard Gregorian calendar, how many months begin with the letter 'J'?
+What is the name of the antagonist group in Danganronpa Another Episode: Ultra Despair Girls?
 
-- **A.** Three
-- **B.** Four
-- **C.** Five
-- **D.** Two
+- **A.** Warriors of Hope
+- **B.** The Monokubs
+- **C.** Warriors of Despair
+- **D.** The Ultimate Despair
 
 <details><summary>Reveal the answer</summary>
 
-**Three**
+**Warriors of Hope**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-04T06:40:33.737262+00:00.
+Timing sample last refreshed: 2026-11-05T06:59:35.047892+00:00.
 
-Last refresh attempt: 2026-11-04T06:40:33.737262+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-05T06:59:35.047892+00:00. If a provider is unavailable, its previous content and original date remain visible.
