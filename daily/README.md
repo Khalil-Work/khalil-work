@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-05
+## Daily inspiration · 2026-11-06
 
-> Debt is the slavery of the free.
+> Your mind is infinite, it's your doubts that are limiting.
 
-— **Publilius Syrus**
+— **Robert Kiyosaki**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-05
+## General-knowledge trivia · 2026-11-06
 
-What is the name of the antagonist group in Danganronpa Another Episode: Ultra Despair Girls?
+Which essential condiment is also known as Japanese horseradish?
 
-- **A.** Warriors of Hope
-- **B.** The Monokubs
-- **C.** Warriors of Despair
-- **D.** The Ultimate Despair
+- **A.** Karashi
+- **B.** Ponzu
+- **C.** Mentsuyu
+- **D.** Wasabi
 
 <details><summary>Reveal the answer</summary>
 
-**Warriors of Hope**
+**Wasabi**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-05T06:59:35.047892+00:00.
+Timing sample last refreshed: 2026-11-06T06:59:11.492435+00:00.
 
-Last refresh attempt: 2026-11-05T06:59:35.047892+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-06T06:59:11.492435+00:00. If a provider is unavailable, its previous content and original date remain visible.
