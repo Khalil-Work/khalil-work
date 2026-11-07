@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "Your mind is infinite, it's your doubts that are limiting.",
-    "author": "Robert Kiyosaki",
-    "date": "2026-11-06",
+    "text": "The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.",
+    "author": "Kamal Ravikant",
+    "date": "2026-11-07",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "Which essential condiment is also known as Japanese horseradish?",
-    "answer": "Wasabi",
+    "question": "Who is considered the \"Father of Modern Philosophy\"?",
+    "answer": "René Descartes",
     "options": [
-      "Karashi",
-      "Ponzu",
-      "Mentsuyu",
-      "Wasabi"
+      "Albert Einstein",
+      "René Descartes",
+      "Antoine Lavoiser",
+      "Plato"
     ],
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-06T06:59:11.492435+00:00"
+    "updated": "2026-11-07T06:12:09.463340+00:00"
   },
-  "generated_at": "2026-11-06T06:59:11.492435+00:00",
+  "generated_at": "2026-11-07T06:12:09.463340+00:00",
   "warnings": []
 }

@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-06
+## Daily inspiration · 2026-11-07
 
-> Your mind is infinite, it's your doubts that are limiting.
+> The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.
 
-— **Robert Kiyosaki**
+— **Kamal Ravikant**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-06
+## General-knowledge trivia · 2026-11-07
 
-Which essential condiment is also known as Japanese horseradish?
+Who is considered the "Father of Modern Philosophy"?
 
-- **A.** Karashi
-- **B.** Ponzu
-- **C.** Mentsuyu
-- **D.** Wasabi
+- **A.** Albert Einstein
+- **B.** René Descartes
+- **C.** Antoine Lavoiser
+- **D.** Plato
 
 <details><summary>Reveal the answer</summary>
 
-**Wasabi**
+**René Descartes**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-06T06:59:11.492435+00:00.
+Timing sample last refreshed: 2026-11-07T06:12:09.463340+00:00.
 
-Last refresh attempt: 2026-11-06T06:59:11.492435+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-07T06:12:09.463340+00:00. If a provider is unavailable, its previous content and original date remain visible.
