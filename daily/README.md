@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-07
+## Daily inspiration · 2026-11-08
 
-> The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.
+> People spend too much time doing and not enough time thinking about what they should be doing.
 
-— **Kamal Ravikant**
+— **Naval Ravikant**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-07
+## General-knowledge trivia · 2026-11-08
 
-Who is considered the "Father of Modern Philosophy"?
+What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?
 
-- **A.** Albert Einstein
-- **B.** René Descartes
-- **C.** Antoine Lavoiser
-- **D.** Plato
+- **A.** Gorilla
+- **B.** Panda
+- **C.** Tiger
+- **D.** Crocodile
 
 <details><summary>Reveal the answer</summary>
 
-**René Descartes**
+**Gorilla**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-07T06:12:09.463340+00:00.
+Timing sample last refreshed: 2026-11-08T06:18:25.341550+00:00.
 
-Last refresh attempt: 2026-11-07T06:12:09.463340+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-08T06:18:25.341550+00:00. If a provider is unavailable, its previous content and original date remain visible.
