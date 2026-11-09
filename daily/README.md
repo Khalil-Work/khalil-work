@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-08
+## Daily inspiration · 2026-11-09
 
-> People spend too much time doing and not enough time thinking about what they should be doing.
+> The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.
 
-— **Naval Ravikant**
+— **Stephen Hawking**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-08
+## General-knowledge trivia · 2026-11-09
 
-What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?
+Which is the capital of Spain?
 
-- **A.** Gorilla
-- **B.** Panda
-- **C.** Tiger
-- **D.** Crocodile
+- **A.** Lisboa
+- **B.** Paris
+- **C.** Barcelona
+- **D.** Madrid
 
 <details><summary>Reveal the answer</summary>
 
-**Gorilla**
+**Madrid**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-08T06:18:25.341550+00:00.
+Timing sample last refreshed: 2026-11-09T06:50:43.163092+00:00.
 
-Last refresh attempt: 2026-11-08T06:18:25.341550+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-09T06:50:43.163092+00:00. If a provider is unavailable, its previous content and original date remain visible.

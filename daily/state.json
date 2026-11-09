@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "People spend too much time doing and not enough time thinking about what they should be doing.",
-    "author": "Naval Ravikant",
-    "date": "2026-11-08",
+    "text": "The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.",
+    "author": "Stephen Hawking",
+    "date": "2026-11-09",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?",
-    "answer": "Gorilla",
+    "question": "Which is the capital of Spain?",
+    "answer": "Madrid",
     "options": [
-      "Gorilla",
-      "Panda",
-      "Tiger",
-      "Crocodile"
+      "Lisboa",
+      "Paris",
+      "Barcelona",
+      "Madrid"
     ],
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-08T06:18:25.341550+00:00"
+    "updated": "2026-11-09T06:50:43.163092+00:00"
   },
-  "generated_at": "2026-11-08T06:18:25.341550+00:00",
+  "generated_at": "2026-11-09T06:50:43.163092+00:00",
   "warnings": []
 }
