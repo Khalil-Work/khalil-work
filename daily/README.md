@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-09
+## Daily inspiration · 2026-11-10
 
-> The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.
+> Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.
 
-— **Stephen Hawking**
+— **Colin Powell**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-09
+## General-knowledge trivia · 2026-11-10
 
-Which is the capital of Spain?
+Xanthophobia is the fear of what color?
 
-- **A.** Lisboa
-- **B.** Paris
-- **C.** Barcelona
-- **D.** Madrid
+- **A.** Green
+- **B.** Blue
+- **C.** Red
+- **D.** Yellow
 
 <details><summary>Reveal the answer</summary>
 
-**Madrid**
+**Yellow**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-09T06:50:43.163092+00:00.
+Timing sample last refreshed: 2026-11-10T07:28:59.776842+00:00.
 
-Last refresh attempt: 2026-11-09T06:50:43.163092+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-10T07:28:59.776842+00:00. If a provider is unavailable, its previous content and original date remain visible.

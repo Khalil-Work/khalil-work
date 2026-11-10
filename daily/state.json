@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.",
-    "author": "Stephen Hawking",
-    "date": "2026-11-09",
+    "text": "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.",
+    "author": "Colin Powell",
+    "date": "2026-11-10",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "Which is the capital of Spain?",
-    "answer": "Madrid",
+    "question": "Xanthophobia is the fear of what color?",
+    "answer": "Yellow",
     "options": [
-      "Lisboa",
-      "Paris",
-      "Barcelona",
-      "Madrid"
+      "Green",
+      "Blue",
+      "Red",
+      "Yellow"
     ],
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-09T06:50:43.163092+00:00"
+    "updated": "2026-11-10T07:28:59.776842+00:00"
   },
-  "generated_at": "2026-11-09T06:50:43.163092+00:00",
+  "generated_at": "2026-11-10T07:28:59.776842+00:00",
   "warnings": []
 }
