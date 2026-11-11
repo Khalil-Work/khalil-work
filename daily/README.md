@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-10
+## Daily inspiration · 2026-11-11
 
-> Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.
+> A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.
 
-— **Colin Powell**
+— **Roy T. Bennett**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-10
+## General-knowledge trivia · 2026-11-11
 
-Xanthophobia is the fear of what color?
+Foie gras is a French delicacy typically made from what part of a duck or goose?
 
-- **A.** Green
-- **B.** Blue
-- **C.** Red
-- **D.** Yellow
+- **A.** Liver
+- **B.** Stomach
+- **C.** Intestines
+- **D.** Heart
 
 <details><summary>Reveal the answer</summary>
 
-**Yellow**
+**Liver**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-10T07:28:59.776842+00:00.
+Timing sample last refreshed: 2026-11-11T06:44:04.700600+00:00.
 
-Last refresh attempt: 2026-11-10T07:28:59.776842+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-11T06:44:04.700600+00:00. If a provider is unavailable, its previous content and original date remain visible.
