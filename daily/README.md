@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-11
+## Daily inspiration · 2026-11-12
 
-> A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.
+> In the practice of tolerance, one's enemy is the best teacher.
 
-— **Roy T. Bennett**
+— **Dalai Lama**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-11
+## General-knowledge trivia · 2026-11-12
 
-Foie gras is a French delicacy typically made from what part of a duck or goose?
+Which restaurant's mascot is a clown?
 
-- **A.** Liver
-- **B.** Stomach
-- **C.** Intestines
-- **D.** Heart
+- **A.** Sonic
+- **B.** Whataburger
+- **C.** McDonald's
+- **D.** Burger King
 
 <details><summary>Reveal the answer</summary>
 
-**Liver**
+**McDonald's**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-11T06:44:04.700600+00:00.
+Timing sample last refreshed: 2026-11-12T07:24:07.609993+00:00.
 
-Last refresh attempt: 2026-11-11T06:44:04.700600+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-12T07:24:07.609993+00:00. If a provider is unavailable, its previous content and original date remain visible.
