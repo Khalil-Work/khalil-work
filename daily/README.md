@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-12
+## Daily inspiration · 2026-11-13
 
-> In the practice of tolerance, one's enemy is the best teacher.
+> An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.
 
-— **Dalai Lama**
+— **John Tukey**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-12
+## General-knowledge trivia · 2026-11-13
 
-Which restaurant's mascot is a clown?
+What is the closest planet to our solar system's sun?
 
-- **A.** Sonic
-- **B.** Whataburger
-- **C.** McDonald's
-- **D.** Burger King
+- **A.** Jupiter
+- **B.** Mars
+- **C.** Mercury
+- **D.** Earth
 
 <details><summary>Reveal the answer</summary>
 
-**McDonald's**
+**Mercury**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-12T07:24:07.609993+00:00.
+Timing sample last refreshed: 2026-11-13T06:56:37.457894+00:00.
 
-Last refresh attempt: 2026-11-12T07:24:07.609993+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-13T06:56:37.457894+00:00. If a provider is unavailable, its previous content and original date remain visible.
