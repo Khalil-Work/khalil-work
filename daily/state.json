@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.",
-    "author": "John Tukey",
-    "date": "2026-11-13",
+    "text": "There is nothing more frightful than ignorance in action.",
+    "author": "Johann Wolfgang von Goethe",
+    "date": "2026-11-14",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "What is the closest planet to our solar system's sun?",
-    "answer": "Mercury",
+    "question": "Which essential condiment is also known as Japanese horseradish?",
+    "answer": "Wasabi",
     "options": [
-      "Jupiter",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Ponzu",
+      "Mentsuyu",
+      "Wasabi",
+      "Karashi"
     ],
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-13T06:56:37.457894+00:00"
+    "updated": "2026-11-14T06:42:49.456573+00:00"
   },
-  "generated_at": "2026-11-13T06:56:37.457894+00:00",
+  "generated_at": "2026-11-14T06:42:49.456573+00:00",
   "warnings": []
 }

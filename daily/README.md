@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-13
+## Daily inspiration · 2026-11-14
 
-> An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.
+> There is nothing more frightful than ignorance in action.
 
-— **John Tukey**
+— **Johann Wolfgang von Goethe**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-13
+## General-knowledge trivia · 2026-11-14
 
-What is the closest planet to our solar system's sun?
+Which essential condiment is also known as Japanese horseradish?
 
-- **A.** Jupiter
-- **B.** Mars
-- **C.** Mercury
-- **D.** Earth
+- **A.** Ponzu
+- **B.** Mentsuyu
+- **C.** Wasabi
+- **D.** Karashi
 
 <details><summary>Reveal the answer</summary>
 
-**Mercury**
+**Wasabi**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-13T06:56:37.457894+00:00.
+Timing sample last refreshed: 2026-11-14T06:42:49.456573+00:00.
 
-Last refresh attempt: 2026-11-13T06:56:37.457894+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-14T06:42:49.456573+00:00. If a provider is unavailable, its previous content and original date remain visible.
