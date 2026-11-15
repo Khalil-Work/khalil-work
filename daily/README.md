@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-14
+## Daily inspiration · 2026-11-15
 
-> There is nothing more frightful than ignorance in action.
+> The weak can never forgive. Forgiveness is the attribute of the strong.
 
-— **Johann Wolfgang von Goethe**
+— **Mahatma Gandhi**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-14
+## General-knowledge trivia · 2026-11-15
 
-Which essential condiment is also known as Japanese horseradish?
+In which cardinal direction does the Sun rise from?
 
-- **A.** Ponzu
-- **B.** Mentsuyu
-- **C.** Wasabi
-- **D.** Karashi
+- **A.** South
+- **B.** West
+- **C.** North
+- **D.** East
 
 <details><summary>Reveal the answer</summary>
 
-**Wasabi**
+**East**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-14T06:42:49.456573+00:00.
+Timing sample last refreshed: 2026-11-15T06:47:32.447616+00:00.
 
-Last refresh attempt: 2026-11-14T06:42:49.456573+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-15T06:47:32.447616+00:00. If a provider is unavailable, its previous content and original date remain visible.

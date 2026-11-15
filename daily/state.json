@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "There is nothing more frightful than ignorance in action.",
-    "author": "Johann Wolfgang von Goethe",
-    "date": "2026-11-14",
+    "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "author": "Mahatma Gandhi",
+    "date": "2026-11-15",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "Which essential condiment is also known as Japanese horseradish?",
-    "answer": "Wasabi",
+    "question": "In which cardinal direction does the Sun rise from?",
+    "answer": "East",
     "options": [
-      "Ponzu",
-      "Mentsuyu",
-      "Wasabi",
-      "Karashi"
+      "South",
+      "West",
+      "North",
+      "East"
     ],
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-14T06:42:49.456573+00:00"
+    "updated": "2026-11-15T06:47:32.447616+00:00"
   },
-  "generated_at": "2026-11-14T06:42:49.456573+00:00",
+  "generated_at": "2026-11-15T06:47:32.447616+00:00",
   "warnings": []
 }
