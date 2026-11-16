@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-15
+## Daily inspiration · 2026-11-16
 
-> The weak can never forgive. Forgiveness is the attribute of the strong.
+> I dream my painting and I paint my dream.
 
-— **Mahatma Gandhi**
+— **Vincent van Gogh**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-15
+## General-knowledge trivia · 2026-11-16
 
-In which cardinal direction does the Sun rise from?
+Which of these words means "idle spectator"?
 
-- **A.** South
-- **B.** West
-- **C.** North
-- **D.** East
+- **A.** Meupareunia
+- **B.** Jentacular
+- **C.** Gongoozler
+- **D.** Gossypiboma
 
 <details><summary>Reveal the answer</summary>
 
-**East**
+**Gongoozler**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-15T06:47:32.447616+00:00.
+Timing sample last refreshed: 2026-11-16T06:46:42.924161+00:00.
 
-Last refresh attempt: 2026-11-15T06:47:32.447616+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-16T06:46:42.924161+00:00. If a provider is unavailable, its previous content and original date remain visible.

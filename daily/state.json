@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-    "author": "Mahatma Gandhi",
-    "date": "2026-11-15",
+    "text": "I dream my painting and I paint my dream.",
+    "author": "Vincent van Gogh",
+    "date": "2026-11-16",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "In which cardinal direction does the Sun rise from?",
-    "answer": "East",
+    "question": "Which of these words means \"idle spectator\"?",
+    "answer": "Gongoozler",
     "options": [
-      "South",
-      "West",
-      "North",
-      "East"
+      "Meupareunia",
+      "Jentacular",
+      "Gongoozler",
+      "Gossypiboma"
     ],
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-15T06:47:32.447616+00:00"
+    "updated": "2026-11-16T06:46:42.924161+00:00"
   },
-  "generated_at": "2026-11-15T06:47:32.447616+00:00",
+  "generated_at": "2026-11-16T06:46:42.924161+00:00",
   "warnings": []
 }
