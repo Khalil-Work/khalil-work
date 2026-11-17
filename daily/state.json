@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "I dream my painting and I paint my dream.",
-    "author": "Vincent van Gogh",
-    "date": "2026-11-16",
+    "text": "If you can't argue both sides, you can't argue.",
+    "author": "Jack Butcher",
+    "date": "2026-11-17",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "Which of these words means \"idle spectator\"?",
-    "answer": "Gongoozler",
+    "question": "Frank Lloyd Wright was the architect behind what famous building?",
+    "answer": "The Guggenheim",
     "options": [
-      "Meupareunia",
-      "Jentacular",
-      "Gongoozler",
-      "Gossypiboma"
+      "The Space Needle",
+      "Villa Savoye",
+      "The Guggenheim",
+      "Sydney Opera House"
     ],
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-16T06:46:42.924161+00:00"
+    "updated": "2026-11-17T08:06:06.502825+00:00"
   },
-  "generated_at": "2026-11-16T06:46:42.924161+00:00",
+  "generated_at": "2026-11-17T08:06:06.502825+00:00",
   "warnings": []
 }
