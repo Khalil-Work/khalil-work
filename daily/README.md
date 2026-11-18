@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-17
+## Daily inspiration · 2026-11-18
 
-> If you can't argue both sides, you can't argue.
+> Silence is a source of great strength.
 
-— **Jack Butcher**
+— **Lao Tzu**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-17
+## General-knowledge trivia · 2026-11-18
 
-Frank Lloyd Wright was the architect behind what famous building?
+Out of these four buildings, which one is the tallest, with a height of 1,250 ft (381 m)?
 
-- **A.** The Space Needle
-- **B.** Villa Savoye
-- **C.** The Guggenheim
-- **D.** Sydney Opera House
+- **A.** Empire State Building, United States
+- **B.** Bank of China Tower, Hong Kong
+- **C.** Gevora Hotal, United Arab Emirates
+- **D.** Federation Tower, Russia
 
 <details><summary>Reveal the answer</summary>
 
-**The Guggenheim**
+**Empire State Building, United States**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-17T08:06:06.502825+00:00.
+Timing sample last refreshed: 2026-11-18T07:42:02.021938+00:00.
 
-Last refresh attempt: 2026-11-17T08:06:06.502825+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-18T07:42:02.021938+00:00. If a provider is unavailable, its previous content and original date remain visible.
