@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-18
+## Daily inspiration · 2026-11-19
 
-> Silence is a source of great strength.
+> You are never too old to become younger.
 
-— **Lao Tzu**
+— **Mae West**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-18
+## General-knowledge trivia · 2026-11-19
 
-Out of these four buildings, which one is the tallest, with a height of 1,250 ft (381 m)?
+In Half-Life, what is the name of the alien that attaches to heads?
 
-- **A.** Empire State Building, United States
-- **B.** Bank of China Tower, Hong Kong
-- **C.** Gevora Hotal, United Arab Emirates
-- **D.** Federation Tower, Russia
+- **A.** Vortigaunt
+- **B.** Headcrab
+- **C.** Facehugger
+- **D.** Bullsquid
 
 <details><summary>Reveal the answer</summary>
 
-**Empire State Building, United States**
+**Headcrab**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 15 |
 | Night | 25 |
 
-Timing sample last refreshed: 2026-11-18T07:42:02.021938+00:00.
+Timing sample last refreshed: 2026-11-19T07:38:09.681754+00:00.
 
-Last refresh attempt: 2026-11-18T07:42:02.021938+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-19T07:38:09.681754+00:00. If a provider is unavailable, its previous content and original date remain visible.

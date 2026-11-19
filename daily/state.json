@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "Silence is a source of great strength.",
-    "author": "Lao Tzu",
-    "date": "2026-11-18",
+    "text": "You are never too old to become younger.",
+    "author": "Mae West",
+    "date": "2026-11-19",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "Out of these four buildings, which one is the tallest, with a height of 1,250 ft (381 m)?",
-    "answer": "Empire State Building, United States",
+    "question": "In Half-Life, what is the name of the alien that attaches to heads?",
+    "answer": "Headcrab",
     "options": [
-      "Empire State Building, United States",
-      "Bank of China Tower, Hong Kong",
-      "Gevora Hotal, United Arab Emirates",
-      "Federation Tower, Russia"
+      "Vortigaunt",
+      "Headcrab",
+      "Facehugger",
+      "Bullsquid"
     ],
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": "2026-10-20",
-    "updated": "2026-11-18T07:42:02.021938+00:00"
+    "updated": "2026-11-19T07:38:09.681754+00:00"
   },
-  "generated_at": "2026-11-18T07:42:02.021938+00:00",
+  "generated_at": "2026-11-19T07:38:09.681754+00:00",
   "warnings": []
 }
