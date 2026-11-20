@@ -1,10 +1,10 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-19
+## Daily inspiration · 2026-11-20
 
-> You are never too old to become younger.
+> Never waste a minute of your precious life thinking about people you don't like.
 
-— **Mae West**
+— **Celestine Chua**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
@@ -34,8 +34,10 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Morning | 37 |
 | Afternoon | 14 |
 | Evening | 15 |
-| Night | 25 |
+| Night | 16 |
 
-Timing sample last refreshed: 2026-11-19T07:38:09.681754+00:00.
+Timing sample last refreshed: 2026-11-20T07:28:52.254604+00:00.
 
-Last refresh attempt: 2026-11-19T07:38:09.681754+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-20T07:28:52.254604+00:00. If a provider is unavailable, its previous content and original date remain visible.
+
+Refresh warnings: trivia: retained last successful content (URLError).

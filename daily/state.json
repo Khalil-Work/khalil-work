@@ -1,8 +1,8 @@
 {
   "quote": {
-    "text": "You are never too old to become younger.",
-    "author": "Mae West",
-    "date": "2026-11-19",
+    "text": "Never waste a minute of your precious life thinking about people you don't like.",
+    "author": "Celestine Chua",
+    "date": "2026-11-20",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
@@ -23,14 +23,16 @@
       "Morning": 37,
       "Afternoon": 14,
       "Evening": 15,
-      "Night": 25
+      "Night": 16
     },
-    "total": 91,
+    "total": 82,
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
-    "earliest_push": "2026-10-20",
-    "updated": "2026-11-19T07:38:09.681754+00:00"
+    "earliest_push": "2026-10-21",
+    "updated": "2026-11-20T07:28:52.254604+00:00"
   },
-  "generated_at": "2026-11-19T07:38:09.681754+00:00",
-  "warnings": []
+  "generated_at": "2026-11-20T07:28:52.254604+00:00",
+  "warnings": [
+    "trivia: retained last successful content (URLError)"
+  ]
 }
