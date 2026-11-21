@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-20
+## Daily inspiration · 2026-11-21
 
-> Never waste a minute of your precious life thinking about people you don't like.
+> To avoid criticism, do nothing, say nothing, and be nothing.
 
-— **Celestine Chua**
+— **Elbert Hubbard**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-19
+## General-knowledge trivia · 2026-11-21
 
-In Half-Life, what is the name of the alien that attaches to heads?
+Which of these is NOT considered to be a colour that makes up the rainbow?
 
-- **A.** Vortigaunt
-- **B.** Headcrab
-- **C.** Facehugger
-- **D.** Bullsquid
+- **A.** Orange
+- **B.** Violet
+- **C.** Blue
+- **D.** Pink
 
 <details><summary>Reveal the answer</summary>
 
-**Headcrab**
+**Pink**
 
 </details>
 
@@ -33,11 +33,9 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | --- | ---: |
 | Morning | 37 |
 | Afternoon | 14 |
-| Evening | 15 |
-| Night | 16 |
+| Evening | 0 |
+| Night | 3 |
 
-Timing sample last refreshed: 2026-11-20T07:28:52.254604+00:00.
+Timing sample last refreshed: 2026-11-21T07:24:33.144687+00:00.
 
-Last refresh attempt: 2026-11-20T07:28:52.254604+00:00. If a provider is unavailable, its previous content and original date remain visible.
-
-Refresh warnings: trivia: retained last successful content (URLError).
+Last refresh attempt: 2026-11-21T07:24:33.144687+00:00. If a provider is unavailable, its previous content and original date remain visible.

@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "Never waste a minute of your precious life thinking about people you don't like.",
-    "author": "Celestine Chua",
-    "date": "2026-11-20",
+    "text": "To avoid criticism, do nothing, say nothing, and be nothing.",
+    "author": "Elbert Hubbard",
+    "date": "2026-11-21",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "In Half-Life, what is the name of the alien that attaches to heads?",
-    "answer": "Headcrab",
+    "question": "Which of these is NOT considered to be a colour that makes up the rainbow?",
+    "answer": "Pink",
     "options": [
-      "Vortigaunt",
-      "Headcrab",
-      "Facehugger",
-      "Bullsquid"
+      "Orange",
+      "Violet",
+      "Blue",
+      "Pink"
     ],
-    "date": "2026-11-19",
+    "date": "2026-11-21",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -22,17 +22,15 @@
     "counts": {
       "Morning": 37,
       "Afternoon": 14,
-      "Evening": 15,
-      "Night": 16
+      "Evening": 0,
+      "Night": 3
     },
-    "total": 82,
+    "total": 54,
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
-    "earliest_push": "2026-10-21",
-    "updated": "2026-11-20T07:28:52.254604+00:00"
+    "earliest_push": "2026-10-23",
+    "updated": "2026-11-21T07:24:33.144687+00:00"
   },
-  "generated_at": "2026-11-20T07:28:52.254604+00:00",
-  "warnings": [
-    "trivia: retained last successful content (URLError)"
-  ]
+  "generated_at": "2026-11-21T07:24:33.144687+00:00",
+  "warnings": []
 }
