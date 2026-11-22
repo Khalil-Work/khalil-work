@@ -1,36 +1,36 @@
 {
   "quote": {
-    "text": "To avoid criticism, do nothing, say nothing, and be nothing.",
-    "author": "Elbert Hubbard",
-    "date": "2026-11-21",
+    "text": "Peace is not the absence of conflict, but the ability to cope with it.",
+    "author": "Unknown",
+    "date": "2026-11-22",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "Which of these is NOT considered to be a colour that makes up the rainbow?",
-    "answer": "Pink",
+    "question": "Who is the youngest person to receive a Nobel Prize?",
+    "answer": "Malala Yousafzai",
     "options": [
-      "Orange",
-      "Violet",
-      "Blue",
-      "Pink"
+      "Werner Heisenberg",
+      "Yasser Arafat",
+      "Malala Yousafzai",
+      "Lawrence Bragg"
     ],
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
   "timing": {
     "counts": {
       "Morning": 37,
-      "Afternoon": 14,
+      "Afternoon": 0,
       "Evening": 0,
       "Night": 3
     },
-    "total": 54,
+    "total": 40,
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
-    "earliest_push": "2026-10-23",
-    "updated": "2026-11-21T07:24:33.144687+00:00"
+    "earliest_push": "2026-10-24",
+    "updated": "2026-11-22T07:04:31.913587+00:00"
   },
-  "generated_at": "2026-11-21T07:24:33.144687+00:00",
+  "generated_at": "2026-11-22T07:04:31.913587+00:00",
   "warnings": []
 }
