@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-22
+## Daily inspiration · 2026-11-23
 
-> Peace is not the absence of conflict, but the ability to cope with it.
+> Have a vision. Be demanding.
 
-— **Unknown**
+— **Colin Powell**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-22
+## General-knowledge trivia · 2026-11-23
 
-Who is the youngest person to receive a Nobel Prize?
+Which of the following presidents is not on Mount Rushmore?
 
-- **A.** Werner Heisenberg
-- **B.** Yasser Arafat
-- **C.** Malala Yousafzai
-- **D.** Lawrence Bragg
+- **A.** Thomas Jefferson
+- **B.** John F. Kennedy
+- **C.** Theodore Roosevelt
+- **D.** Abraham Lincoln
 
 <details><summary>Reveal the answer</summary>
 
-**Malala Yousafzai**
+**John F. Kennedy**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 0 |
 | Night | 3 |
 
-Timing sample last refreshed: 2026-11-22T07:04:31.913587+00:00.
+Timing sample last refreshed: 2026-11-23T07:52:55.485085+00:00.
 
-Last refresh attempt: 2026-11-22T07:04:31.913587+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-23T07:52:55.485085+00:00. If a provider is unavailable, its previous content and original date remain visible.
