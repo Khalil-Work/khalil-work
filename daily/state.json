@@ -1,36 +1,36 @@
 {
   "quote": {
-    "text": "Have a vision. Be demanding.",
-    "author": "Colin Powell",
-    "date": "2026-11-23",
+    "text": "Educating the mind without educating the heart is no education at all.",
+    "author": "Aristotle",
+    "date": "2026-11-24",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "Which of the following presidents is not on Mount Rushmore?",
-    "answer": "John F. Kennedy",
+    "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+    "answer": "Libra",
     "options": [
-      "Thomas Jefferson",
-      "John F. Kennedy",
-      "Theodore Roosevelt",
-      "Abraham Lincoln"
+      "Gemini",
+      "Libra",
+      "Capricorn",
+      "Taurus"
     ],
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
   "timing": {
     "counts": {
-      "Morning": 37,
+      "Morning": 0,
       "Afternoon": 0,
       "Evening": 0,
-      "Night": 3
+      "Night": 0
     },
-    "total": 40,
+    "total": 0,
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
-    "earliest_push": "2026-10-24",
-    "updated": "2026-11-23T07:52:55.485085+00:00"
+    "earliest_push": null,
+    "updated": "2026-11-24T10:04:33.914847+00:00"
   },
-  "generated_at": "2026-11-23T07:52:55.485085+00:00",
+  "generated_at": "2026-11-24T10:04:33.914847+00:00",
   "warnings": []
 }

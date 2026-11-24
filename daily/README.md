@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-23
+## Daily inspiration · 2026-11-24
 
-> Have a vision. Be demanding.
+> Educating the mind without educating the heart is no education at all.
 
-— **Colin Powell**
+— **Aristotle**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-23
+## General-knowledge trivia · 2026-11-24
 
-Which of the following presidents is not on Mount Rushmore?
+Which sign of the zodiac comes between Virgo and Scorpio?
 
-- **A.** Thomas Jefferson
-- **B.** John F. Kennedy
-- **C.** Theodore Roosevelt
-- **D.** Abraham Lincoln
+- **A.** Gemini
+- **B.** Libra
+- **C.** Capricorn
+- **D.** Taurus
 
 <details><summary>Reveal the answer</summary>
 
-**John F. Kennedy**
+**Libra**
 
 </details>
 
@@ -31,11 +31,11 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 
 | Time | Public pushes |
 | --- | ---: |
-| Morning | 37 |
+| Morning | 0 |
 | Afternoon | 0 |
 | Evening | 0 |
-| Night | 3 |
+| Night | 0 |
 
-Timing sample last refreshed: 2026-11-23T07:52:55.485085+00:00.
+Timing sample last refreshed: 2026-11-24T10:04:33.914847+00:00.
 
-Last refresh attempt: 2026-11-23T07:52:55.485085+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-24T10:04:33.914847+00:00. If a provider is unavailable, its previous content and original date remain visible.
