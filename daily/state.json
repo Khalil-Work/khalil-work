@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "Educating the mind without educating the heart is no education at all.",
-    "author": "Aristotle",
-    "date": "2026-11-24",
+    "text": "We have to live life with a sense of urgency so not a minute is wasted.",
+    "author": "Les Brown",
+    "date": "2026-11-25",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
-    "answer": "Libra",
+    "question": "The New York Times slogan is, “All the News That’s Fit to…”",
+    "answer": "Print",
     "options": [
-      "Gemini",
-      "Libra",
-      "Capricorn",
-      "Taurus"
+      "Read",
+      "Look",
+      "Digest",
+      "Print"
     ],
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": null,
-    "updated": "2026-11-24T10:04:33.914847+00:00"
+    "updated": "2026-11-25T08:49:51.666236+00:00"
   },
-  "generated_at": "2026-11-24T10:04:33.914847+00:00",
+  "generated_at": "2026-11-25T08:49:51.666236+00:00",
   "warnings": []
 }

@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-24
+## Daily inspiration · 2026-11-25
 
-> Educating the mind without educating the heart is no education at all.
+> We have to live life with a sense of urgency so not a minute is wasted.
 
-— **Aristotle**
+— **Les Brown**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-24
+## General-knowledge trivia · 2026-11-25
 
-Which sign of the zodiac comes between Virgo and Scorpio?
+The New York Times slogan is, “All the News That’s Fit to…”
 
-- **A.** Gemini
-- **B.** Libra
-- **C.** Capricorn
-- **D.** Taurus
+- **A.** Read
+- **B.** Look
+- **C.** Digest
+- **D.** Print
 
 <details><summary>Reveal the answer</summary>
 
-**Libra**
+**Print**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 0 |
 | Night | 0 |
 
-Timing sample last refreshed: 2026-11-24T10:04:33.914847+00:00.
+Timing sample last refreshed: 2026-11-25T08:49:51.666236+00:00.
 
-Last refresh attempt: 2026-11-24T10:04:33.914847+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-25T08:49:51.666236+00:00. If a provider is unavailable, its previous content and original date remain visible.
