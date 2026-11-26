@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-25
+## Daily inspiration · 2026-11-26
 
-> We have to live life with a sense of urgency so not a minute is wasted.
+> Keep your eyes on the stars, but remember to keep your feet on the ground.
 
-— **Les Brown**
+— **Theodore Roosevelt**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-25
+## General-knowledge trivia · 2026-11-26
 
-The New York Times slogan is, “All the News That’s Fit to…”
+Apple co-founder Steve Jobs died from complications of which form of cancer?
 
-- **A.** Read
-- **B.** Look
-- **C.** Digest
-- **D.** Print
+- **A.** Bone
+- **B.** Liver
+- **C.** Pancreatic
+- **D.** Stomach
 
 <details><summary>Reveal the answer</summary>
 
-**Print**
+**Pancreatic**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 0 |
 | Night | 0 |
 
-Timing sample last refreshed: 2026-11-25T08:49:51.666236+00:00.
+Timing sample last refreshed: 2026-11-26T08:35:57.909628+00:00.
 
-Last refresh attempt: 2026-11-25T08:49:51.666236+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-26T08:35:57.909628+00:00. If a provider is unavailable, its previous content and original date remain visible.
