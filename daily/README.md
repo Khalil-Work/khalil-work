@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-26
+## Daily inspiration · 2026-11-27
 
-> Keep your eyes on the stars, but remember to keep your feet on the ground.
+> It takes half your life before you discover life is a do-it-yourself project.
 
-— **Theodore Roosevelt**
+— **Napoleon Hill**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-26
+## General-knowledge trivia · 2026-11-27
 
-Apple co-founder Steve Jobs died from complications of which form of cancer?
+Who was the 1st President of Mexico?
 
-- **A.** Bone
-- **B.** Liver
-- **C.** Pancreatic
-- **D.** Stomach
+- **A.** Guadalupe Victoria
+- **B.** Miguel Hidalgo Y Costilla
+- **C.** Vicente Guerrero
+- **D.** Benito Juárez
 
 <details><summary>Reveal the answer</summary>
 
-**Pancreatic**
+**Guadalupe Victoria**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 0 |
 | Night | 0 |
 
-Timing sample last refreshed: 2026-11-26T08:35:57.909628+00:00.
+Timing sample last refreshed: 2026-11-27T08:47:32.049709+00:00.
 
-Last refresh attempt: 2026-11-26T08:35:57.909628+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-27T08:47:32.049709+00:00. If a provider is unavailable, its previous content and original date remain visible.
