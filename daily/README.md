@@ -1,25 +1,25 @@
 # Daily inspiration & curiosity
 
-## Daily inspiration · 2026-11-27
+## Daily inspiration · 2026-11-28
 
-> It takes half your life before you discover life is a do-it-yourself project.
+> High thoughts must have high language.
 
-— **Napoleon Hill**
+— **Aristophanes**
 
 Inspirational quotes provided by [ZenQuotes API](https://zenquotes.io/).
 
-## General-knowledge trivia · 2026-11-27
+## General-knowledge trivia · 2026-11-28
 
-Who was the 1st President of Mexico?
+Which of these is NOT considered to be a colour that makes up the rainbow?
 
-- **A.** Guadalupe Victoria
-- **B.** Miguel Hidalgo Y Costilla
-- **C.** Vicente Guerrero
-- **D.** Benito Juárez
+- **A.** Pink
+- **B.** Orange
+- **C.** Blue
+- **D.** Violet
 
 <details><summary>Reveal the answer</summary>
 
-**Guadalupe Victoria**
+**Pink**
 
 </details>
 
@@ -36,6 +36,6 @@ Timezone **UTC+8**. Up to 300 recent public events, within 30 days. These are pu
 | Evening | 0 |
 | Night | 0 |
 
-Timing sample last refreshed: 2026-11-27T08:47:32.049709+00:00.
+Timing sample last refreshed: 2026-11-28T08:02:58.533126+00:00.
 
-Last refresh attempt: 2026-11-27T08:47:32.049709+00:00. If a provider is unavailable, its previous content and original date remain visible.
+Last refresh attempt: 2026-11-28T08:02:58.533126+00:00. If a provider is unavailable, its previous content and original date remain visible.

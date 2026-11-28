@@ -1,20 +1,20 @@
 {
   "quote": {
-    "text": "It takes half your life before you discover life is a do-it-yourself project.",
-    "author": "Napoleon Hill",
-    "date": "2026-11-27",
+    "text": "High thoughts must have high language.",
+    "author": "Aristophanes",
+    "date": "2026-11-28",
     "source": "https://zenquotes.io/"
   },
   "trivia": {
-    "question": "Who was the 1st President of Mexico?",
-    "answer": "Guadalupe Victoria",
+    "question": "Which of these is NOT considered to be a colour that makes up the rainbow?",
+    "answer": "Pink",
     "options": [
-      "Guadalupe Victoria",
-      "Miguel Hidalgo Y Costilla",
-      "Vicente Guerrero",
-      "Benito Juárez"
+      "Pink",
+      "Orange",
+      "Blue",
+      "Violet"
     ],
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "source": "https://opentdb.com/",
     "license": "CC BY-SA 4.0"
   },
@@ -29,8 +29,8 @@
     "timezone": "UTC+8",
     "sample": "Up to 300 recent public events, within 30 days",
     "earliest_push": null,
-    "updated": "2026-11-27T08:47:32.049709+00:00"
+    "updated": "2026-11-28T08:02:58.533126+00:00"
   },
-  "generated_at": "2026-11-27T08:47:32.049709+00:00",
+  "generated_at": "2026-11-28T08:02:58.533126+00:00",
   "warnings": []
 }
